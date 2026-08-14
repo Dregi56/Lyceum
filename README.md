@@ -29,7 +29,7 @@ Quindi:
 
 ### 🌆 Mercoledì 23 — *La Parigi dove abitiamo*
 **Montmartre + Sacré-Cœur**
-*Arrivate e non fate altro che entrare nella città.*
+*Arriviamo e non facciamo altro che entrare nella città.*
 
 ### 🏛️ Giovedì 24 — *La Parigi storica*
 **Île de la Cité + Notre-Dame + Rive Gauche + Senna + Tour Eiffel**
@@ -164,10 +164,10 @@ Non camminiamo fino al centro. Usiamo la metro. Abbesses (linea 12) → Concorde
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
 
 **⛪ 10:15–11:30 — Notre-Dame**
-Visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto se possibile. Non aggiungerei Sainte-Chapelle. Abbiamo deciso che il viaggio non deve diventare una collezione di monumenti. Notre-Dame è sufficiente.
+Visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto. Se possibile segue la visita di Sainte-Chapelle.
 
 **🌊 11:30–12:15 — Quai de l'Horloge / Senna**
-Usciti da Notre-Dame: passeggiata lungo la Senna. Questo è già uno dei momenti nei quali Parigi deve essere semplicemente guardata. 📚 Bouquinistes. ⛵ Barche. 🌉 Ponti. 🚶 Persone.
+Usciti da Notre-Dame, dopo Sainte Chapelle : passeggiata lungo la Senna. Questo è già uno dei momenti nei quali Parigi deve essere semplicemente guardata. 📚 Bouquinistes. ⛵ Barche. 🌉 Ponti. 🚶 Persone.
 
 **🌉 12:15–12:30 — Pont Saint-Michel**
 Attraversamento verso la Rive Gauche.
