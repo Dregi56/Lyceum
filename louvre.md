@@ -9,10 +9,10 @@
 
 ### 1. Ingresso e Primo Capolavoro
 * **Partenza:** Entrata dall'Ala Denon sotto la Piramide (Livello -1).
-* **🗿 TAPPA 1: Nike di Samotracia**
+* **🗿 TAPPA 1: ⬅️ [Nike di Samotracia](nike-samotracia.md)**
   * **Ubicazione:** Scalone Daru (Livello 1, Sala 703).
   * **Percorso:** Entrati nell'Ala Denon, salite lo scalone monumentale Daru. La Nike domina la sommità della scalinata.
-
+  * **  
 ---
 
 ### 2. Il Rinascimento Italiano (Livello 1 - Ala Denon)
