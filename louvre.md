@@ -1,5 +1,6 @@
 # 🎯 Itinerario Tattico - Museo del Louvre
 ⬅️ [Torna al programma](README.md)
+
 **Tempo stimato:** 2 ore e 15 minuti - 2 ore e 45 minuti  
 **Strategia:** Sequenza a flusso unico (Denon Piano 1 ➔ Denon Piano 0 ➔ Sully Piano 0) per eliminare i tempi morti e coprire tutti i capolavori richiesti.
 
