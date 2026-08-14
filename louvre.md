@@ -62,48 +62,6 @@ Dalla Sala 700 scendete le scale fino al **Piano Terra (Livello 0)** dell'Ala De
 
 ## 🗺️ Schema Visivo del Flusso
 
-```text
-========================================================================================
-                               PIANO 1 (LEVEL 1) - DIPINTI
-========================================================================================
+![Mappa Tattica Louvre](mappa-louvre.png)
 
-[Ingresso Denon - Nivel -1]
-           │
-           ▼
-[TAPPA 1: Nike di Samotracia] ──► Scalone Daru (Sala 703)
-           │
-           ▼
-[Grande Galerie (Sala 710)]   ──► [TAPPA 2: Vergine delle Rocce]
-           │
-           ▼ (Svolta a destra)
-┌─────────────────────────────────────────────────────────────┐
-│ Salle des États (Sala 711)                                  │
-│                                                             │
-│ ──► [TAPPA 3A: La Gioconda] (Se coda > 15 min ➔ ABORTIRE)   │
-│ ──► [TAPPA 3B: Le Nozze di Cana] (Parete opposta)           │
-└──────────────────────────┬──────────────────────────────────┘
-                           │
-                           ▼
-[Sala Daru (Sala 702)]       ──► [TAPPA 4: L'Incoronazione di Napoleone]
-                           │
-                           ▼
-[Sala Mollien (Sala 700)]    ──► [TAPPA 5: La Libertà che guida il popolo]
-                                 & [La Zattera della Medusa]
-                           │
-                           ▼
-          ════════ SCENDERE AL PIANO TERRA (LEVEL 0) ════════
 
-========================================================================================
-                         PIANO TERRA (LEVEL 0) - SCULTURE
-========================================================================================
-
-[Ala Denon - Piano 0]
-[Galleria Michelangelo (403)] ──► [TAPPA 6: Amore e Psiche]
-           │
-           ▼ (Proseguire dritto verso Ala Sully)
-[Ala Sully - Piano 0]
-[Sala 345]                   ──► [TAPPA 7: Venere di Milo]
-           │
-           ▼
-[USCITA / PIRAMIDE]
-========================================================================================
