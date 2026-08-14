@@ -57,7 +57,7 @@ Dalla Sala 700 scendete le scale fino al **Piano Terra (Livello 0)** dell'Ala De
   * **Percorso:** Dalla Galleria Michelangelo proseguite dritto mantenendo la direzione verso l'**Ala Sully**. Attraversate le sale dell'arte greca fino alla Sala 345, dove la statua è posizionata al centro.
 
 *(Fine del percorso: dalla Sala 345 vi trovate a brevissima distanza dall'uscita verso la Piramide o l'Atrio Sully).*
-
+⬅️ [Torna al programma](README.md)
 ---
 
 ## 🗺️ Schema Visivo del Flusso
