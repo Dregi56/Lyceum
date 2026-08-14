@@ -36,10 +36,6 @@ L'opera raffigura l'incontro leggendario tra il piccolo San Giovanni Battista e 
 
 ---
 
-## ⏱️ Consigli Militari per la Visita
-
-* 🎯 **Tempo consigliato di sosta:** 10 minuti.
-* 📸 **Punto d'osservazione migliore:** Posizionati a circa 1,5–2 metri dalla tavola per cogliere la sfumatura dei volti e i dettagli botanici in basso senza ostruire il passaggio nella Grande Galerie.
 * ➡️ **Prossima tappa:** Prosegui dritto lungo la Grande Galerie e svolta a destra nella **Salle des États (Sala 711)** per *La Gioconda* 🖼️ e *Le Nozze di Cana* 💒.
 
 ---
