@@ -217,7 +217,7 @@ Metro verso il Louvre. Abbesses (linea 12) → Concorde, cambio linea 1 → Pala
 **🖼️ 9:15 — Arrivo al Louvre**
 Ingresso prenotato. Il Louvre raccomanda la prenotazione di una fascia oraria.
 
-**🖼️ 9:30–12:30 — Louvre: solo le opere che ci interessano**
+**🖼️ 9:30–12:30 — ↗️ [Louvre](louvre.md): solo le opere che ci interessano**
 Questa deve essere una visita 'militare' nella precisione.
 
 - 🗿 **Nike di Samotracia** — Prima tappa.
