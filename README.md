@@ -48,6 +48,7 @@ Quindi:
 ## 📋 In sintesi
 
 ### 🌆 Giorno 0 — Montmartre
+
 | Ora | Cosa |
 |---|---|
 | 🛬 16:00 | arrivo |
@@ -59,6 +60,7 @@ Quindi:
 | 🏨 22:00 | albergo |
 
 ### 🏛️ Giorno 1 — Île de la Cité + Notre-Dame + Rive Gauche + Senna + Tour Eiffel
+
 | Ora | Cosa |
 |---|---|
 | 🏝️ 09:45 | Île de la Cité |
@@ -75,6 +77,7 @@ Quindi:
 | 🏨 22:00 | albergo |
 
 ### 🖼️ Giorno 2 — Louvre + grande asse monumentale
+
 | Ora | Cosa |
 |---|---|
 | 🖼️ 09:30 | Louvre |
@@ -89,6 +92,7 @@ Quindi:
 | 🏨 22:30 | albergo |
 
 ### 🧺 Giorno 3 — Marais + Île Saint-Louis + Senna + Aeroporto
+
 | Ora | Cosa |
 |---|---|
 | ☕🥐 08:00 | colazione e check-out definitivo da Montmartre |
