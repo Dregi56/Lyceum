@@ -32,7 +32,7 @@ Quindi:
 *Arriviamo e non facciamo altro che entrare nella città.*
 
 ### 🏛️ Giovedì 24 — *La Parigi storica*
-**Île de la Cité + Notre-Dame + Rive Gauche + Senna + Tour Eiffel**
+**Île de la Cité + Notre-Dame + Sainte Chapelle + Rive Gauche + Senna + Tour Eiffel**
 *💞 È il giorno più «romantico».*
 
 ### 🖼️ Venerdì 25 — *La Parigi monumentale*
@@ -59,7 +59,7 @@ Quindi:
 | 🍽️ 20:30 | cena |
 | 🏨 22:00 | albergo |
 
-### 🏛️ Giorno 1 — Île de la Cité + Notre-Dame + Rive Gauche + Senna + Tour Eiffel
+### 🏛️ Giorno 1 — Île de la Cité + Notre-Dame + Sainte Chapelle + Rive Gauche + Senna + Tour Eiffel
 
 | Ora | Cosa |
 |---|---|
