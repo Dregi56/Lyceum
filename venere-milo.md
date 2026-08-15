@@ -42,10 +42,6 @@ La statua raffigura Aphrodite (Venere per i Romani), la dea dell'amore e della b
 
 ---
 
-## ⏱️ Consigli Militari per la Visita
-
-* 🎯 **Tempo consigliato di sosta:** 10 minuti.
-* 📸 **Punto d'osservazione migliore:** Posizionati sul lato sinistro della statua a 45° per cogliere al meglio la spettacolare spirale della torsione del corpo e la profondità delle pieghe del drappeggio.
 * 🏁 **DEBRIEFING FINALE:** Misione completata! Hai concluso il percorso tattico dei 9 capolavori del Louvre. Segui le indicazioni per la Piramide o l'uscita *Carrousel*.
 
 ---
