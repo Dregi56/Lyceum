@@ -2,8 +2,13 @@
 
 **"Il dipinto più grande di tutto il Museo del Louvre"**
 
-* ⬅️ [Torna al Programma](README.md)
+### 🔗 Navigazione
+* ⬅️ [Torna all'Itinerario Principale](louvre.md)
+* ⬅️ [Tappa Precedente: La Gioconda](gioconda.md)
+* ➡️ [Tappa Successiva: Amore e Psiche](amore-e-psiche.md)
   
+* ⬅️ [Torna al Programma](README.md)
+    
 ---
 
 ## 📌 Scheda Sintetica
@@ -39,7 +44,4 @@ L'opera raffigura il primo miracolo di Gesù riportato nel Vangelo di Giovanni: 
 ---
 ---
 
-### 🔗 Navigazione
-* ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ⬅️ [Tappa Precedente: La Gioconda](gioconda.md)
-* ➡️ [Tappa Successiva: Amore e Psiche](amore-e-psiche.md)
+
