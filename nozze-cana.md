@@ -7,6 +7,7 @@
 * ⬅️ [Tappa Precedente: La Gioconda](gioconda.md)
 * ➡️ [Tappa Successiva: Amore e Psiche](amore-e-psiche.md)
   
+  
 * ⬅️ [Torna al Programma](README.md)
     
 ---
