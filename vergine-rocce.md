@@ -1,5 +1,12 @@
 # 🌹 La Vergine delle Rocce
-* ⬅️ [Torna al Programma](README.md)
+
+### 🔗 Navigazione
+* ⬅️ [Torna all'Itinerario Principale](louvre.md)
+* ⬅️ [Tappa Precedente: Nike di Samotracia](nike-samotracia.md)
+* ➡️ [Tappa Successiva: La Gioconda](gioconda.md)
+
+
+  ⬅️ [Torna al Programma](README.md)
 
 **"Il capolavoro leonardesco del chiaroscuro e della natura misteriosa"**
 ---
@@ -40,7 +47,3 @@ L'opera raffigura l'incontro leggendario tra il piccolo San Giovanni Battista e 
 
 ---
 
-### 🔗 Navigazione
-* ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ⬅️ [Tappa Precedente: Nike di Samotracia](nike-samotracia.md)
-* ➡️ [Tappa Successiva: La Gioconda](gioconda.md)
