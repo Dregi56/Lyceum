@@ -42,10 +42,6 @@ L'opera raffigura il momento culminante del mito tratto dalle *Metamorfosi* di A
 
 ---
 
-## ⏱️ Consigli Militari per la Visita
-
-* 🎯 **Tempo consigliato di sosta:** 10 minuti.
-* 📸 **Punto d'osservazione migliore:** Fai il giro completo attorno alla scultura! Guarda da dietro per ammirare il dettaglio delle ali di Cupido, la faretra con le frecce e l'intreccio dei capelli di Psiche.
 * ➡️ **Prossima tappa:** Risali al Piano 1 (Level 1) per entrare nelle sale dedicate alla Grande Pittura Francese: **L'Incoronazione di Napoleone** 👑 nella Sala 702 (Salle Mollien).
 
 ---
