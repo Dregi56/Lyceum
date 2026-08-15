@@ -19,7 +19,7 @@
 ### 2. Il Rinascimento Italiano (Livello 1 - Ala Denon)
 Dalla Nike, entrate direttamente nella **Grande Galerie** (Sala 710).
 
-* **🌹 TAPPA 2: ⬅️[La Vergine delle rocce](vergine-rocce.md)**
+* **🌹 TAPPA 2: ⬅️ [La Vergine delle rocce](vergine-rocce.md)**
   * **Ubicazione:** Grande Galerie (Sala 708 / 710).
   * **Percorso:** Camminate lungo il corridoio principale della Grande Galerie; la tela si trova esposta sulla parete prima dell'accesso alla Salle des États.
 
