@@ -40,7 +40,7 @@ Uscite dalla Salle des États dalla parte opposta ed entrate nelle sale rosse de
   * **Ubicazione:** Sala Daru (Sala 702).
   * **Percorso:** Adiacente alla Salle des États. Il quadro imponente domina la parete principale.
 
-* **🚩 TAPPA 5: [La Libertà che guida il popolo - Eugène Delacroix](liberta-guida-popolo.md) & 🛶 [La Zattera della Medusa - Théodore Géricault])(zattera-medusa.md)**
+* **🚩 TAPPA 5: [La Libertà che guida il popolo - Eugène Delacroix](liberta-guida-popolo.md) & 🛶 [La Zattera della Medusa - Théodore Géricault](zattera-medusa.md)**
   * **Ubicazione:** Salle Mollien (Sala 700).
   * **Percorso:** Proseguite direttamente dalla Sala 702 alla Sala 700. Troverete entrambe le gigantesche tele esposte nella medesima sala.
 
