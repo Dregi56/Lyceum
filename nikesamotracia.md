@@ -2,6 +2,9 @@
 
 > **"La Vittoria alata che domina lo Scalone Daru"**
 
+### 🔗 Navigazione
+* ⬅️ [Torna all'Itinerario Principale](louvre.md)
+
 ---
 
 ## 📌 Scheda Sintetica
@@ -39,5 +42,3 @@ il momento esatto dell'impatto con il vento di mare:
 
 ---
 
-### 🔗 Navigazione
-* ⬅️ [Torna all'Itinerario Principale](louvre.md)
