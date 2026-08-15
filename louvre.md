@@ -36,11 +36,11 @@ Dalla Nike, entrate direttamente nella **Grande Galerie** (Sala 710).
 ### 3. Il Romanticismo e Neoclassicismo Francese (Livello 1 - Ala Denon)
 Uscite dalla Salle des États dalla parte opposta ed entrate nelle sale rosse della pittura francese.
 
-* **👑 TAPPA 4: L'Incoronazione di Napoleone (Jacques-Louis David)**
+* **👑 TAPPA 4: [L'Incoronazione di Napoleone - Jacques-Louis David ](incoronazione-napoleone.md)**
   * **Ubicazione:** Sala Daru (Sala 702).
   * **Percorso:** Adiacente alla Salle des États. Il quadro imponente domina la parete principale.
 
-* **🚩 TAPPA 5: La Libertà che guida il popolo (Eugène Delacroix) & 🛶 La Zattera della Medusa (Théodore Géricault)**
+* **🚩 TAPPA 5: [La Libertà che guida il popolo - Eugène Delacroix](liberta-guida-popolo.md) & 🛶 [La Zattera della Medusa - Théodore Géricault])(zattera-medusa.md)**
   * **Ubicazione:** Salle Mollien (Sala 700).
   * **Percorso:** Proseguite direttamente dalla Sala 702 alla Sala 700. Troverete entrambe le gigantesche tele esposte nella medesima sala.
 
@@ -49,11 +49,11 @@ Uscite dalla Salle des États dalla parte opposta ed entrate nelle sale rosse de
 ### 4. Galleria Michelangelo e Sculture Classiche (Piano Terra / Livello 0)
 Dalla Sala 700 scendete le scale fino al **Piano Terra (Livello 0)** dell'Ala Denon.
 
-* **💞 TAPPA 6: Amore e Psiche (Antonio Canova)**
+* **💞 TAPPA 6: [Amore e Psiche - Antonio Canova](amore-psiche.md)**
   * **Ubicazione:** Galleria Michelangelo (Sala 403).
   * **Percorso:** Al Piano Terra dell'Ala Denon, entrate nella Galleria Michelangelo. La scultura si trova verso il centro della sala.
 
-* **🗿 TAPPA 7: Venere di Milo**
+* **🗿 TAPPA 7: [Venere di Milo](venere-milo,md)**
   * **Ubicazione:** Ala Sully (Sala 345 - Salle de la Vénus de Milo).
   * **Percorso:** Dalla Galleria Michelangelo proseguite dritto mantenendo la direzione verso l'**Ala Sully**. Attraversate le sale dell'arte greca fino alla Sala 345, dove la statua è posizionata al centro.
 
