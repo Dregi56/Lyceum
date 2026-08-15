@@ -7,7 +7,7 @@
 * ⬅️ [Tappa Precedente: La Vergine delle Rocce](vergine-delle-rocce.md)
 * ➡️ [Tappa Successiva: Le Nozze di Cana](nozze-cana.md)
 
-  ⬅️ [Torna al Programma](README.md)
+  🏁 [Torna al Programma](README.md)
   
 ---
 
