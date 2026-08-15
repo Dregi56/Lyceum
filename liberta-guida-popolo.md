@@ -7,7 +7,7 @@
 * ⬅️ [Tappa Precedente: L'Incoronazione di Napoleone](incoronazione-napoleone.md)
 * ➡️ [Tappa Successiva: La Zattera della Medusa](zattera-medusa.md)
 
-  ⬅️ [Torna al Programma](README.md)
+  🏁 [Torna al Programma](README.md)
 
 ---
 
