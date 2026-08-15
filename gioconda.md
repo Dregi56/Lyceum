@@ -5,7 +5,7 @@
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario](louvre.md)
 * ⬅️ [Tappa Precedente: La Vergine delle Rocce](vergine-delle-rocce.md)
-* ➡️ [Tappa Successiva: Le Nozze di Cana](nozze-di-cana.md)
+* ➡️ [Tappa Successiva: Le Nozze di Cana](nozze-cana.md)
 
   ⬅️ [Torna al Programma](README.md)
   
