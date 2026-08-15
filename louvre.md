@@ -23,7 +23,7 @@ Dalla Nike, entrate direttamente nella **Grande Galerie** (Sala 710).
   * **Ubicazione:** Grande Galerie (Sala 708 / 710).
   * **Percorso:** Camminate lungo il corridoio principale della Grande Galerie; la tela si trova esposta sulla parete prima dell'accesso alla Salle des États.
 
-* **🖼️ TAPPA 3: La Gioconda (Mona Lisa) & 💒 Le Nozze di Cana (Veronese)**
+* **🖼️ TAPPA 3:  [La Gioconda - Monna Lisa](gioconda.md)La Gioconda & 💒 Le Nozze di Cana (Veronese)**
   * **Ubicazione:** Salle des États (Sala 711).
   * **Percorso:** Svoltate a destra dalla Grande Galerie ed entrate nella Sala 711.
   * **⚠️ REGOLA DI INGAGGIAMIENTO:**  
