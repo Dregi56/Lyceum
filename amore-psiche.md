@@ -4,8 +4,8 @@
 
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ⬅️ [Tappa Precedente: Le Nozze di Cana](nozze-di-cana.md)
-* ➡️ [Tappa Successiva: L'Incoronazione di Napoleone](incoronazione-di-napoleone.md)
+* ⬅️ [Tappa Precedente: Le Nozze di Cana](nozze-cana.md)
+* ➡️ [Tappa Successiva: L'Incoronazione di Napoleone](incoronazione-napoleone.md)
 ---
 
 ## 📌 Scheda Sintetica
