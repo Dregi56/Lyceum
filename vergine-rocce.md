@@ -6,7 +6,7 @@
 * ➡️ [Tappa Successiva: La Gioconda](gioconda.md)
 
 
-  ⬅️ [Torna al Programma](README.md)
+  🏁 [Torna al Programma](README.md)
 
 **"Il capolavoro leonardesco del chiaroscuro e della natura misteriosa"**
 ---
