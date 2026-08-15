@@ -4,7 +4,7 @@
 
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ➡️ [Tappa Successiva: La Gioconda](gioconda.md)
+* ➡️ [Tappa Successiva: La Vergine delle rocce](vergine-rocce.md)
 
   ⬅️ [Torna al Programma](README.md)
 
