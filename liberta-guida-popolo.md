@@ -1,4 +1,4 @@
-# 🇫🇷 La Libertà che guida il popolo
+# 👩🏽‍🦱 La Libertà che guida il popolo
 
 > **"L'icona universale della rivoluzione e della lotta per la libertà"**
 
