@@ -4,7 +4,7 @@
 
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ⬅️ [Tappa Precedente: La Libertà che guida il popolo](liberta-che-guida-il-popolo.md)
+* ⬅️ [Tappa Precedente: La Libertà che guida il popolo](liberta-guida-popolo.md)
 * ➡️ [Tappa Successiva: Venere di Milo](venere-milo.md)
 
   ⬅️ [Torna al Programma](README.md)
