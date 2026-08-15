@@ -2,7 +2,12 @@
 
 **"L'enigma più celebre della storia dell'arte"**
 
-* ⬅️ [Torna al Programma](README.md)
+### 🔗 Navigazione
+* ⬅️ [Torna all'Itinerario](louvre.md)
+* ⬅️ [Tappa Precedente: La Vergine delle Rocce](vergine-delle-rocce.md)
+* ➡️ [Tappa Successiva: Le Nozze di Cana](nozze-di-cana.md)
+
+  ⬅️ [Torna al Programma](README.md)
   
 ---
 
@@ -37,8 +42,3 @@ Il ritratto raffigura una donna seduta su una loggia aperta su un paesaggio fluv
 * 🛡️ **Protezione Militare:** L'opera è custodita all'interno di una teca di vetro blindato climatizzato e a prova di proiettile a una temperatura costante di 21°C e 50% di umidità.
 
 ---
-
-### 🔗 Navigazione
-* ⬅️ [Torna all'Itinerario](louvre.md)
-* ⬅️ [Tappa Precedente: La Vergine delle Rocce](vergine-delle-rocce.md)
-* ➡️ [Tappa Successiva: Le Nozze di Cana](nozze-di-cana.md)
