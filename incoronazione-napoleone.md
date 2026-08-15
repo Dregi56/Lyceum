@@ -43,8 +43,4 @@ Il quadro raffigura la cerimonia d'incoronazione di Napoleone avvenuta nella cat
 
 ---
 
-## ⏱️ Consigli Militari per la Visita
-
-* 🎯 **Tempo consigliato di sosta:** 10 minuti.
-* 📸 **Punto d'osservazione migliore:** Posizionati a centro stanza a circa 3–4 metri di distanza per ammirare la monumentalità dell'opera, poi avvicinati sul lato sinistro per scorgere i volti e la brillantezza dei gioielli della corte.
 * ➡️ **Prossima tappa:** Rimani nella stessa Sala Rossa (Sala 702) e spostati leggermente per ammirare **La Libertà che guida il popolo** 🇫🇷.
