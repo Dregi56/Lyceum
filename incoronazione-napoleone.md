@@ -7,7 +7,7 @@
 * ⬅️ [Tappa Precedente: Amore e Psiche](amore-psiche.md)
 * ➡️ [Tappa Successiva: La Libertà che guida il popolo](liberta-guida-popolo.md)
 
-  ⬅️ [Torna al Programma](README.md)
+  🏁 [Torna al Programma](README.md)
 
 ---
 
