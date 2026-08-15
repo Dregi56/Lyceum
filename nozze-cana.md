@@ -5,7 +5,7 @@
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
 * ⬅️ [Tappa Precedente: La Gioconda](gioconda.md)
-* ➡️ [Tappa Successiva: Amore e Psiche](amore-psiche.md)
+* ➡️ [Tappa Successiva: L'incoronazione di Napoleone](incoronazione-napoleone.md)
   
   🏁 [Torna al Programma](README.md)
     
