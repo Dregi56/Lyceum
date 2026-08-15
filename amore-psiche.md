@@ -7,7 +7,7 @@
 * ⬅️ [Tappa Precedente: Le Nozze di Cana](nozze-cana.md)
 * ➡️ [Tappa Successiva: L'Incoronazione di Napoleone](incoronazione-napoleone.md)
 
-  ⬅️ [Torna al Programma](README.md)
+  🏁 [Torna al Programma](README.md)
 ---
 
 ## 📌 Scheda Sintetica
