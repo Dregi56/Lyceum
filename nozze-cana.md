@@ -5,7 +5,7 @@
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
 * ⬅️ [Tappa Precedente: La Gioconda](gioconda.md)
-* ➡️ [Tappa Successiva: Amore e Psiche](amore-e-psiche.md)
+* ➡️ [Tappa Successiva: Amore e Psiche](amore-psiche.md)
   
   ⬅️ [Torna al Programma](README.md)
     
