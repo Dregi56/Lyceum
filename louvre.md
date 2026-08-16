@@ -62,6 +62,10 @@ Dalla Sala 700 scendete le scale fino al **Piano Terra (Livello 0)** dell'Ala De
 
 ## 🗺️ Schema Visivo del Flusso
 
+![Piramide-scale](map1.png)
+![Sale rosse](map2.png)
+![Sculture e uscita](map3.png)
+
 ![Mappa Tattica Louvre](mappa-louvre.png)
 
 ⬅️ [Torna al programma](README.md)
