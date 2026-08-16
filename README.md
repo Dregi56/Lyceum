@@ -160,7 +160,7 @@ Non camminiamo fino al centro. Usiamo la metro. Abbesses (linea 12) → Concorde
 
 > ⚠️ Con un cambio, i 45 minuti previsti sono un po' risicati: meglio uscire verso le 8:30, oppure mettere in conto un arrivo verso le 9:35–9:40 anziché le 9:30. Obiettivo: arrivare verso le 9:30.
 
-**🏝️ 9:30–11:30 — Île de la Cité** [MAPPA🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
+**🏝️ 9:30–11:30 — Île de la Cité** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
 
 **⛪ 10:15–11:30 — Notre-Dame**
@@ -175,7 +175,7 @@ Attraversamento verso la Rive Gauche.
 **🍽️ 12:30–14:00 — Pranzo al bistrot**
 Zona: Saint-Michel / Quartiere Latino / Saint-Germain. Qui voglio una vera pausa. Tavolino. Pranzo. ☕ Caffè. Guardare la gente. Un'ora e un quarto almeno. Nessuna fretta.
 
-**📚 14:00–15:30 — Rive Gauche** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Michel,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Boulevard+Saint-Michel,+Paris|Sorbonne,+Paris&travelmode=walking)
+**📚 14:00–15:30 — Rive Gauche** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Michel,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Boulevard+Saint-Michel,+Paris|Sorbonne,+Paris&travelmode=walking)
 Passeggiata molto tranquilla. Percorso: Saint-Michel → Rue Saint-Séverin → Boulevard Saint-Michel → Sorbona → Saint-Germain-des-Prés. Non occorre percorrerlo tutto a piedi. Se qualcuno è stanco: metro o taxi per un tratto.
 
 > 🚇 Piano B pronto all'uso: Saint-Michel (linea 4) → Saint-Germain-des-Prés, un solo salto diretto, 3 minuti. (Sono circa 1,3 km: a passo lento con soste può facilmente superare i 20 minuti — tenere il piano B a portata di mano, non improvvisarlo.)
@@ -186,7 +186,7 @@ Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
 **🚇 16:00 — Metro/taxi verso la Tour Eiffel**
 Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. RER C, stazione Musée d'Orsay (5-10 min a piedi da Saint-Germain) → Champ de Mars-Tour Eiffel, una fermata diretta, senza cambi.
 
-**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Trocad%C3%A9ro,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
+**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Trocad%C3%A9ro,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
 Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso: zona Trocadéro → vista della Torre → attraversamento → Champs de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
 **🥂 18:30–19:30 — Aperitivo**
@@ -239,7 +239,7 @@ Basta Louvre. Non aggiungiamo altre opere «già che ci siamo».
 Mi è stato consigliato 'RELAIS DELL'ENTRECOTE': Zona Champs-Élysées: 15 rue Marbeuf (entré d'insalata poi bistecca di manzo + patatine fritte 29 euro).
 Oppure rimaniamo leggeri e prima di continuare, ci sediamo. Caffè / bibita / qualcosa  di leggero.
 
-**🌳 13:15–14:30 — Jardin des Tuileries** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris|Avenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
+**🌳 13:15–14:30 — Jardin des Tuileries** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris|Avenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
 Entriamo nelle Tuileries. Passeggiata tranquilla. Sedie. Fontane. Viali. Niente fretta. A settembre il giardino ha orario ampio; per il 25 settembre l'orario indicato dal Louvre è 7:00–21:00.
 
 **🗿 14:30–15:15 — Place de la Concorde**
@@ -286,7 +286,7 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 **🚇🧳 8:45 — Metro da Montmartre → deposito bagagli (zona Marais/Centro)**
 Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville. Ci si dirige subito al punto di deposito selezionato per lasciare le valigie.
 
-**🥖 9:30–11:30 — Le Marais** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
+**🥖 9:30–11:30 — Le Marais** --> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
 Percorso: Place des Vosges → Rue des Francs-Bourgeois → Rue Vieille-du-Temple → Rue des Rosiers. Passeggiata lenta. È il momento della Parigi quotidiana. Negozi. Caffè. Persone. Strade. 🛍️
 
 **🏛️ 11:30–12:15 — Hôtel de Ville**
@@ -298,7 +298,7 @@ Attraversamento dell'isola. Questa sarà l'ultima passeggiata del viaggio. 🚶�
 **🍽️❤️ 12:45–14:00 — Pranzo con calma**
 Ultimo bistrot. E qui facciamo una cosa simbolica: pranzo senza fretta. Non deve essere un pranzo «veloce prima dell'aereo». È l'ultimo pezzo del viaggio, e grazie al tempo recuperato dal mancato ritorno a Montmartre, possiamo goderci ben un'ora e un quarto al tavolo.
 
-**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking)
+**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking)
 Una mezz'ora scarsa per gli ultimi sguardi alla Senna e per recarsi a ritirare i bagagli al deposito (*). Non cerchiamo di aggiungere il Louvre, il Palais Royal, la Bastiglia o altro. La città ci aspetta la prossima volta. 🏙️
 
 **🚖 14:30–15:00 — Partenza direttamente dal centro per l'aeroporto**
