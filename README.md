@@ -286,7 +286,7 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 **🚇🧳 8:45 — Metro da Montmartre → deposito bagagli (zona Marais/Centro)**
 Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville. Ci si dirige subito al punto di deposito selezionato per lasciare le valigie.
 
-**🥖 9:30–11:30 — Le Marais** --> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
+**🥖 9:30–11:30 — Le Marais** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
 Percorso: Place des Vosges → Rue des Francs-Bourgeois → Rue Vieille-du-Temple → Rue des Rosiers. Passeggiata lenta. È il momento della Parigi quotidiana. Negozi. Caffè. Persone. Strade. 🛍️
 
 **🏛️ 11:30–12:15 — Hôtel de Ville**
