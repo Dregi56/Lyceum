@@ -122,7 +122,7 @@ Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferi
 **🏨 16:30 circa — Arrivo a Montmartre**
 Arrivo in albergo. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
-**🚶‍♀️ 17:15–19:45 — Montmartre** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Montmartre,+Paris&destination=Basilique+du+Sacr%C3%A9-C%C5%93ur,+Paris&travelmode=walking)
+**🚶‍♀️ 17:15–19:45 — Montmartre** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Montmartre,+Paris&destination=Basilique+du+Sacr%C3%A9-C%C5%93ur,+Paris&travelmode=walking)
 Prima passeggiata del viaggio. Partenza dall'albergo.
 
 Percorso indicativo: Place des Abbesses → Rue des Abbesses → Rue Lepic → Moulin de la Galette → Rue de l'Abreuvoir → La Maison Rose → Place du Tertre → Sacré-Cœur
