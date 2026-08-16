@@ -4,8 +4,8 @@
 
 ### 🔗 Navigazione
 * ⬅️ [Torna all'Itinerario Principale](louvre.md)
-* ⬅️ [Tappa Precedente: Le Nozze di Cana](nozze-cana.md)
-* ➡️ [Tappa Successiva: L'Incoronazione di Napoleone](incoronazione-napoleone.md)
+* ⬅️ [Tappa Precedente: La zattera della medusa](zattera-medusa.md)
+* ➡️ [Tappa Successiva: La Venere di Milo](venere-milo.md)
 
   🏁 [Torna al Programma](README.md)
 ---
