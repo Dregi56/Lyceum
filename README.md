@@ -160,7 +160,7 @@ Non camminiamo fino al centro. Usiamo la metro. Abbesses (linea 12) → Concorde
 
 > ⚠️ Con un cambio, i 45 minuti previsti sono un po' risicati: meglio uscire verso le 8:30, oppure mettere in conto un arrivo verso le 9:35–9:40 anziché le 9:30. Obiettivo: arrivare verso le 9:30.
 
-**🏝️ 9:30–11:30 — Île de la Cité** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
+**🏝️ 9:30–11:30 — Île de la Cité** [MAPPA🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
 
 **⛪ 10:15–11:30 — Notre-Dame**
