@@ -227,7 +227,7 @@ Questa deve essere una visita 'militare' nella precisione.
 - 🌹  **La Vergine delle rocce**
 - 👑 **L'incoronazione di Napoleone**
 - 🚩 **La Libertà che guida il popolo**
-- 🛶 **La zattera della Medusa**
+- 🌊 **La zattera della Medusa**
 - 🗿 **Venere di Milo** 
 
 Parte delle opere indicate sono concentrate nell'area Denon, per cui il percorso può essere molto più compatto di una visita generale del museo.
