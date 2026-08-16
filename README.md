@@ -239,7 +239,7 @@ Basta Louvre. Non aggiungiamo altre opere «già che ci siamo».
 Mi è stato consigliato 'RELAIS DELL'ENTRECOTE': Zona Champs-Élysées: 15 rue Marbeuf (entré d'insalata poi bistecca di manzo + patatine fritte 29 euro).
 Oppure rimaniamo leggeri e prima di continuare, ci sediamo. Caffè / bibita / qualcosa  di leggero.
 
-**🌳 13:15–14:30 — Jardin des Tuileries**
+**🌳 13:15–14:30 — Jardin des Tuileries** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris|Avenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
 Entriamo nelle Tuileries. Passeggiata tranquilla. Sedie. Fontane. Viali. Niente fretta. A settembre il giardino ha orario ampio; per il 25 settembre l'orario indicato dal Louvre è 7:00–21:00.
 
 **🗿 14:30–15:15 — Place de la Concorde**
