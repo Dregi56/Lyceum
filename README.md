@@ -298,8 +298,7 @@ Attraversamento dell'isola. Questa sarà l'ultima passeggiata del viaggio. 🚶�
 **🍽️❤️ 12:45–14:00 — Pranzo con calma**
 Ultimo bistrot. E qui facciamo una cosa simbolica: pranzo senza fretta. Non deve essere un pranzo «veloce prima dell'aereo». È l'ultimo pezzo del viaggio, e grazie al tempo recuperato dal mancato ritorno a Montmartre, possiamo goderci ben un'ora e un quarto al tavolo.
 
-**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking)
-Una mezz'ora scarsa per gli ultimi sguardi alla Senna e per recarsi a ritirare i bagagli al deposito (*). Non cerchiamo di aggiungere il Louvre, il Palais Royal, la Bastiglia o altro. La città ci aspetta la prossima volta. 🏙️
+**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [–> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking) Una mezz'ora scarsa per gli ultimi sguardi alla Senna e per recarsi a ritirare i bagagli al deposito (*). Non cerchiamo di aggiungere il Louvre, il Palais Royal, la Bastiglia o altro. La città ci aspetta la prossima volta. 🏙️
 
 **🚖 14:30–15:00 — Partenza direttamente dal centro per l'aeroporto**
 Ci si sposta verso l'aeroporto (il taxi o la RER B da Châtelet/Saint-Michel sono molto comodi e diretti da questa zona centrale). Partendo entro le 15:00 dal centro, si ha un margine di sicurezza enorme e rilassato per coprire la distanza verso l'aeroporto. 🚗💨
