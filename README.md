@@ -122,7 +122,7 @@ Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferi
 **🏨 16:30 circa — Arrivo a Montmartre**
 Arrivo in albergo. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
-**🚶‍♀️ 17:15–19:45 — Montmartre**
+**🚶‍♀️ 17:15–19:45 — Montmartre** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Montmartre,+Paris&destination=Basilique+du+Sacr%C3%A9-C%C5%93ur,+Paris&travelmode=walking)
 Prima passeggiata del viaggio. Partenza dall'albergo.
 
 Percorso indicativo: Place des Abbesses → Rue des Abbesses → Rue Lepic → Moulin de la Galette → Rue de l'Abreuvoir → La Maison Rose → Place du Tertre → Sacré-Cœur
@@ -160,7 +160,7 @@ Non camminiamo fino al centro. Usiamo la metro. Abbesses (linea 12) → Concorde
 
 > ⚠️ Con un cambio, i 45 minuti previsti sono un po' risicati: meglio uscire verso le 8:30, oppure mettere in conto un arrivo verso le 9:35–9:40 anziché le 9:30. Obiettivo: arrivare verso le 9:30.
 
-**🏝️ 9:30–11:30 — Île de la Cité**
+**🏝️ 9:30–11:30 — Île de la Cité** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
 
 **⛪ 10:15–11:30 — Notre-Dame**
@@ -175,7 +175,7 @@ Attraversamento verso la Rive Gauche.
 **🍽️ 12:30–14:00 — Pranzo al bistrot**
 Zona: Saint-Michel / Quartiere Latino / Saint-Germain. Qui voglio una vera pausa. Tavolino. Pranzo. ☕ Caffè. Guardare la gente. Un'ora e un quarto almeno. Nessuna fretta.
 
-**📚 14:00–15:30 — Rive Gauche**
+**📚 14:00–15:30 — Rive Gauche** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Michel,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Boulevard+Saint-Michel,+Paris|Sorbonne,+Paris&travelmode=walking)
 Passeggiata molto tranquilla. Percorso: Saint-Michel → Rue Saint-Séverin → Boulevard Saint-Michel → Sorbona → Saint-Germain-des-Prés. Non occorre percorrerlo tutto a piedi. Se qualcuno è stanco: metro o taxi per un tratto.
 
 > 🚇 Piano B pronto all'uso: Saint-Michel (linea 4) → Saint-Germain-des-Prés, un solo salto diretto, 3 minuti. (Sono circa 1,3 km: a passo lento con soste può facilmente superare i 20 minuti — tenere il piano B a portata di mano, non improvvisarlo.)
@@ -186,7 +186,7 @@ Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
 **🚇 16:00 — Metro/taxi verso la Tour Eiffel**
 Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. RER C, stazione Musée d'Orsay (5-10 min a piedi da Saint-Germain) → Champ de Mars-Tour Eiffel, una fermata diretta, senza cambi.
 
-**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars**
+**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Trocad%C3%A9ro,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
 Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso: zona Trocadéro → vista della Torre → attraversamento → Champs de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
 **🥂 18:30–19:30 — Aperitivo**
