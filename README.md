@@ -286,7 +286,7 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 **🚇🧳 8:45 — Metro da Montmartre → deposito bagagli (zona Marais/Centro)**
 Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville. Ci si dirige subito al punto di deposito selezionato per lasciare le valigie.
 
-**🥖 9:30–11:30 — Le Marais**
+**🥖 9:30–11:30 — Le Marais** [🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
 Percorso: Place des Vosges → Rue des Francs-Bourgeois → Rue Vieille-du-Temple → Rue des Rosiers. Passeggiata lenta. È il momento della Parigi quotidiana. Negozi. Caffè. Persone. Strade. 🛍️
 
 **🏛️ 11:30–12:15 — Hôtel de Ville**
@@ -298,7 +298,7 @@ Attraversamento dell'isola. Questa sarà l'ultima passeggiata del viaggio. 🚶�
 **🍽️❤️ 12:45–14:00 — Pranzo con calma**
 Ultimo bistrot. E qui facciamo una cosa simbolica: pranzo senza fretta. Non deve essere un pranzo «veloce prima dell'aereo». È l'ultimo pezzo del viaggio, e grazie al tempo recuperato dal mancato ritorno a Montmartre, possiamo goderci ben un'ora e un quarto al tavolo.
 
-**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli**
+**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking)
 Una mezz'ora scarsa per gli ultimi sguardi alla Senna e per recarsi a ritirare i bagagli al deposito (*). Non cerchiamo di aggiungere il Louvre, il Palais Royal, la Bastiglia o altro. La città ci aspetta la prossima volta. 🏙️
 
 **🚖 14:30–15:00 — Partenza direttamente dal centro per l'aeroporto**
