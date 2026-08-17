@@ -122,7 +122,7 @@ Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferi
 **🏨 16:30 circa — Arrivo a Montmartre**
 Arrivo in albergo. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
-**🚶‍♀️ 17:15–19:45 — Montmartre** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=H%C3%B4tel+BASSS,+Paris&destination=H%C3%B4tel+BASSS,+Paris&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
+**🚶‍♀️ 17:15–19:45 — Montmartre** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=57+Rue+des+Abbesses,+75018+Paris,+France&destination=57+Rue+des+Abbesses,+75018+Paris,+France&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
 Prima passeggiata del viaggio. Partenza dall'albergo.
 
 Percorso indicativo: Hôtel BASSS → Rue des Abbesses → Funicolare → Sacré-Cœur → Place du Tertre → La Maison Rose → Rue de l'Abreuvoir → Place Dalida → Moulin de la Galette → Rue Lepic → Hôtel BASSS
