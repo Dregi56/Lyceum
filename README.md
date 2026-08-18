@@ -108,6 +108,7 @@ Quindi:
 | 🛫🌍 18:30 | volo Parigi → Venezia |
 
 ---
+<p align="center" style="font-size:1.4em;"><strong><span style="color:#1B3A5C;">GIORNATE</span></strong></p>
 ---
 
 ## 🌆 Mercoledì 23 settembre
