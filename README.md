@@ -122,18 +122,18 @@ Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferi
 **🏨 16:30 circa — Arrivo a Montmartre**
 Arrivo in albergo. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
-**🚶‍♀️ 17:15–19:45 — Montmartre** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=57+Rue+des+Abbesses,+75018+Paris,+France&destination=57+Rue+des+Abbesses,+75018+Paris,+France&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
-Prima passeggiata del viaggio. Partenza dall'albergo.
+**⛪🚶‍♀️ 17:15–19:45 — Funicolare, Sacré-Cœur e passeggiata di ritorno** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=57+Rue+des+Abbesses,+75018+Paris,+France&destination=57+Rue+des+Abbesses,+75018+Paris,+France&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
+Partenza dall'albergo. Si sale, non si cammina in salita: il tragitto a piedi si fa tutto al ritorno, in discesa.
 
-Percorso indicativo: Hôtel BASSS → Rue des Abbesses → Funicolare → Sacré-Cœur → Place du Tertre → La Maison Rose → Rue de l'Abreuvoir → Place Dalida → Moulin de la Galette → Rue Lepic → Hôtel BASSS
+- **17:15–17:30** — A piedi fino alla stazione del funicolare, lungo Rue des Abbesses.
+- **17:30–17:35** — Salita con il funicolare fino a Sacré-Cœur.
+- **17:35–18:20** — Visita della basilica, poi sosta davanti al Sacré-Cœur a guardare Parigi dall'alto. Non salirei sulla cupola.
+- **18:20–19:45** — Passeggiata di ritorno, in discesa: Place du Tertre → La Maison Rose → Rue de l'Abreuvoir → Place Dalida → Moulin de la Galette → Rue Lepic → albergo.
 
-
+Durante la discesa:
 - 🌿 Se una strada piace, ci si ferma.
 - 🪑 Se qualcuno vuole sedersi, ci si siede.
-- ✂️ Se la passeggiata diventa troppo lunga, si taglia direttamente verso il Sacré-Cœur.
-
-**⛪ 19:00–19:45 — Sacré-Cœur**
-Arrivo alla basilica. Visita. Poi soprattutto: sosta davanti al Sacré-Cœur a guardare Parigi. Non salirei sulla cupola.
+- ✂️ Se la passeggiata diventa troppo lunga, si taglia diretti verso l'albergo.
 
 **🍽️ 20:00–21:30 — Cena a Montmartre**
 Rimanete nel quartiere. Zona consigliata: Rue des Abbesses / Rue Lepic / Rue des Trois Frères. Cena senza formalità.
