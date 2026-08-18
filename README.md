@@ -109,7 +109,7 @@ Quindi:
 
 ---
 
-<p align="center" style="font-size:2.5em; margin:0;"><strong><span style="color:#1B3A5C;">GIORNATE</span></strong></p>
+<p align="center" style="font-size:42px !important; font-weight:800 !important; margin:0;"><strong><span style="color:#1B3A5C; font-size:42px !important; font-weight:800 !important;">GIORNATE</span></strong></p>
 
 ---
 
