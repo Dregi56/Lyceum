@@ -155,9 +155,7 @@ Questo sarà il giorno dedicato alla Parigi storica e alla Senna, con la Torre E
 Colazione tranquilla in zona albergo.
 
 **🚇 8:45 — Metro da Montmartre → Île de la Cité**
-Non camminiamo fino al centro. Usiamo la metro. La stazione di partenza è Abbesses che si trova a 2-3 minuti a piedi dall'albergo nella piazza dove Rue des Abbesses si allarga. Per scendere, **prendere l'ascensore** per evitare 250 gradini a chiocciola. Quindi Abbesses (linea 12) → Concorde, cambio linea 1 →  si scende a Châtelet, poi 7-8 minuti a piedi lungo la Senna fino a Pont Neuf.
-
-> ⚠️ Con un cambio, i 45 minuti previsti sono un po' risicati: meglio uscire verso le 8:30, oppure mettere in conto un arrivo verso le 9:35–9:40 anziché le 9:30. Obiettivo: arrivare verso le 9:30.
+Non camminiamo fino al centro. Usiamo la metro. La stazione di partenza è Abbesses che si trova a 2-3 minuti a piedi dall'albergo nella piazza dove Rue des Abbesses si allarga. ⚠️ Per scendere, **prendere l'ascensore** per evitare 250 gradini a chiocciola. Quindi Abbesses (linea 12) → Concorde, cambio linea 1 →  si scende a Châtelet, poi 7-8 minuti a piedi lungo la Senna fino a Pont Neuf.
 
 **🏝️ 9:30–11:30 — Île de la Cité** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
