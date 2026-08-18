@@ -155,7 +155,7 @@ Questo sarà il giorno dedicato alla Parigi storica e alla Senna, con la Torre E
 Colazione tranquilla in zona albergo.
 
 **🚇 8:45 — Metro da Montmartre → Île de la Cité**
-Non camminiamo fino al centro. Usiamo la metro. Abbesses (linea 12) → Concorde, cambio linea 7 → Pont Neuf.
+Non camminiamo fino al centro. Usiamo la metro. La stazione di partenza è Abbesses che si trova a 2-3 minuti a piedi dall'albergo nella piazza dove Rue des Abbesses si allarga. Per scendere, **prendere l'ascensore** per evitare 250 gradini a chiocciola. Quindi Abbesses (linea 12) → Concorde, cambio linea 1 →  si scende a Châtelet, poi 7-8 minuti a piedi lungo la Senna fino a Pont Neuf.
 
 > ⚠️ Con un cambio, i 45 minuti previsti sono un po' risicati: meglio uscire verso le 8:30, oppure mettere in conto un arrivo verso le 9:35–9:40 anziché le 9:30. Obiettivo: arrivare verso le 9:30.
 
