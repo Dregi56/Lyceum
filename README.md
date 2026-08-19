@@ -274,42 +274,80 @@ Saint-Germain-des-Prés (linea 4) → Château Rouge, diretta, senza cambi — m
 
 ---
 
-## 📅 Sabato 26 settembre
-### Giorno 3 — Marais → Île Saint-Louis → Senna → Aeroporto
-{: #giorno-3}
+# 📅 Sabato 26 settembre
+## Giorno 3 — Île Saint-Louis → Senna → Marais → Entrecôte → Aeroporto
 
-Questo giorno è molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
+Questo giorno rimane molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
 
-> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli in un deposito nel Marais (o vicino a Hôtel de Ville/Châtelet), eliminiamo completamente il viaggio di ritorno a Montmartre. Questo ci fa risparmiare circa un'ora di tempo e la spesa di un taxi intermedio, permettendoci di andare direttamente dal centro all'aeroporto. ✈️
+> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli in un deposito nel Marais (o vicino a Hôtel de Ville/Châtelet), eliminiamo completamente il viaggio di ritorno a Montmartre. Con la nuova versione facciamo però un passo in più: **portiamo il pranzo alla fine della passeggiata**, proprio sulla strada verso il punto in cui abbiamo lasciato i bagagli. Questo rende il percorso più naturale e ci permette di mangiare alle 12 senza dover interrompere la passeggiata.
 
 **☕🥐 8:00 — Colazione e check-out**
+
 Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 
-**🚇🧳 8:45 — Metro da Montmartre → deposito bagagli (zona Marais/Centro)**
-Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville. Ci si dirige subito al punto di deposito selezionato per lasciare le valigie.
+**🚇🧳 8:45 — Metro da Montmartre → deposito bagagli**
 
-**🥖 9:30–11:30 — Le Marais** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Place+des+Vosges,+Paris&destination=%C3%8Ele+Saint-Louis,+Paris&waypoints=Rue+des+Rosiers,+Paris|H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
-Percorso: Place des Vosges → Rue des Francs-Bourgeois → Rue Vieille-du-Temple → Rue des Rosiers. Passeggiata lenta. È il momento della Parigi quotidiana. Negozi. Caffè. Persone. Strade. 🛍️
+Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville.
 
-**🏛️ 11:30–12:15 — Hôtel de Ville**
-Continuazione verso: Hôtel de Ville → Senna. Sosta. Foto. Panchina. 📸🪑
+Si lasciano le valigie al punto di deposito selezionato e si parte definitivamente per l'ultima passeggiata.
 
-**🏝️ 12:15 — Île Saint-Louis**
-Attraversamento dell'isola. Questa sarà l'ultima passeggiata del viaggio. 🚶‍♂️
+**🏝️ 9:30–10:15 — Île Saint-Louis**
 
-**🍽️❤️ 12:45–14:00 — Pranzo con calma**
-Ultimo bistrot. E qui facciamo una cosa simbolica: pranzo senza fretta. Non deve essere un pranzo «veloce prima dell'aereo». È l'ultimo pezzo del viaggio, e grazie al tempo recuperato dal mancato ritorno a Montmartre, possiamo goderci ben un'ora e un quarto al tavolo.
+Partenza dalla zona dell'Île Saint-Louis.
 
-**🌊🧳 14:00–14:30 — Ultima passeggiata sulla Senna e ritiro bagagli** [–> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=Le+Marais,+Paris&travelmode=walking) Una mezz'ora scarsa per gli ultimi sguardi alla Senna e per recarsi a ritirare i bagagli al deposito (*). Non cerchiamo di aggiungere il Louvre, il Palais Royal, la Bastiglia o altro. La città ci aspetta la prossima volta. 🏙️
+Questa volta **iniziamo proprio da qui**, anziché arrivarci alla fine. Attraversiamo l'isola con calma, godendoci quella che sarà comunque l'ultima passeggiata del viaggio.
 
-**🚖 14:30–15:00 — Partenza direttamente dal centro per l'aeroporto**
-Ci si sposta verso l'aeroporto (il taxi o la RER B da Châtelet/Saint-Michel sono molto comodi e diretti da questa zona centrale). Partendo entro le 15:00 dal centro, si ha un margine di sicurezza enorme e rilassato per coprire la distanza verso l'aeroporto. 🚗💨
+**🏛️ 10:15–10:45 — Hôtel de Ville**
+
+Dall'Île Saint-Louis si torna verso la riva destra e si prosegue verso **Hôtel de Ville**.
+
+Sosta. Foto. Panchina. 📸🪑
+
+**🥖 10:45–11:20 — Rue des Rosiers → Le Marais**
+
+Da Hôtel de Ville si entra nel Marais e si percorre **Rue des Rosiers**, mantenendo il carattere lento della passeggiata.
+
+Negozi. Caffè. Persone. Strade. 🛍️
+
+**🏛️ 11:20–11:45 — Place des Vosges**
+
+Si prosegue verso **Place des Vosges**, attraversando il cuore del Marais.
+
+Qui abbiamo completato sostanzialmente tutto il percorso previsto nella versione originale, ma invece di continuare verso l'Île Saint-Louis ci dirigiamo verso il ristorante.
+
+**🚶 11:45–12:00 — Place des Vosges → Boulevard Beaumarchais**
+
+Ultimo tratto a piedi verso il pranzo.
+
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=21+Boulevard+Beaumarchais,+75004+Paris&waypoints=H%C3%B4tel+de+Ville,+Paris%7CRue+des+Rosiers,+Paris%7CPlace+des+Vosges,+Paris&travelmode=walking)
+
+**🍽️❤️ 12:00–13:15 — Pranzo con calma**
+
+**L'Atelier Entrecôte & Volaille — 21 Boulevard Beaumarchais, 75004 Paris.**
+
+ È l'ultimo pranzo del viaggio e non deve diventare un semplice "mangiamo prima dell'aereo" avremo tempo poi per un'ultima passeggiata.
+
+**🌊🧳 13:15–13:45 — Ultima passeggiata e ritiro bagagli**
+
+Dopo pranzo si torna verso il punto di deposito bagagli nella zona Marais/Hôtel de Ville.
+
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
+
+Il vantaggio è che **non dobbiamo più fare Île Saint-Louis → Marais dopo pranzo**: quella parte l'abbiamo già fatta prima di sederci a tavola.
+
+**🚖 13:45–14:15 — Partenza direttamente dal centro per l'aeroporto**
+
+Si recuperano i bagagli e si parte direttamente dal centro.
+
+Il taxi o la RER B da Châtelet/Saint-Michel sono molto comodi e diretti da questa zona centrale. Partendo intorno alle **14:00**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
 
 **🛄 16:30 — Aeroporto**
-Stazione / Terminal Check-in / bagagli / controlli. Poi finalmente possiamo sederci. 🪑
+
+Stazione / Terminal Check-in / bagagli / controlli.
+
+Poi finalmente possiamo sederci. 🪑
 
 **🛫🌍 18:30 — Volo Parigi → Venezia**
-
 ---
 
 ## 🧳 (*) Deposito bagagli
