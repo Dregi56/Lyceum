@@ -313,8 +313,6 @@ Negozi. Caffè. Persone. Strade. 🛍️
 
 Si prosegue verso **Place des Vosges**, attraversando il cuore del Marais.
 
-Qui abbiamo completato sostanzialmente tutto il percorso previsto nella versione originale, ma invece di continuare verso l'Île Saint-Louis ci dirigiamo verso il ristorante.
-
 **🚶 11:45–12:00 — Place des Vosges → Boulevard Beaumarchais**
 
 Ultimo tratto a piedi verso il pranzo.
@@ -354,21 +352,6 @@ Poi finalmente possiamo sederci. 🪑
 Ha oltre 20 punti di deposito solo nel Marais e vicino a Châtelet.
 - 💶 **Costo:** a partire da circa **€ 4,25 – € 5,25 al giorno per bagaglio** (tariffa fissa per 24 ore, senza limiti di peso o dimensione).
 - 🛡️ **Sicurezza:** include una protezione/assicurazione sui bagagli fino a € 10.000.
-
-### 2️⃣ Radical Storage 🏪
-Molto forte nella zona di Hôtel de Ville e dell'Île Saint-Louis, con depositi in caffè e boutique a 1-4 minuti dalle fermate.
-- 💶 **Costo:** prezzo fisso di circa **€ 3,90 al giorno per bagaglio**.
-- ✅ **Vantaggio:** tariffe estremamente competitive ed economiche per la zona centro.
-
-### 3️⃣ LuggageHero 🕒
-Ottimo se cercate flessibilità, con diversi punti sia a Saint-Paul che a Hôtel de Ville.
-- 💶 **Costo:** tariffa oraria a partire da **€ 1,29 all'ora per bagaglio** oppure tariffa giornaliera da **€ 5,25 al giorno**, più una commissione di servizio una tantum di circa € 1,60 a borsa.
-- 🛡️ **Sicurezza:** garanzia inclusa fino a € 500 a bagaglio.
-
-### 4️⃣ Nannybag 🛡️
-Molto diffuso a Parigi, con diversi negozi partner anche vicino al Museo Picasso (pieno Marais).
-- 💶 **Costo:** tariffa fissa a partire da **€ 4,90 al giorno per un bagaglio medio/grande**.
-- 🛡️ **Sicurezza:** protezione inclusa fino a € 10.000.
 
 ---
 
