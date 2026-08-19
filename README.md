@@ -279,7 +279,7 @@ Saint-Germain-des-Prés (linea 4) → Château Rouge, diretta, senza cambi — m
 
 Questo giorno rimane molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
 
-> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli in un deposito nel Marais (o vicino a Hôtel de Ville/Châtelet), eliminiamo completamente il viaggio di ritorno a Montmartre. **Portiamo il pranzo alla fine della passeggiata**, proprio sulla strada verso il punto in cui abbiamo lasciato i bagagli. Questo rende il percorso più naturale e ci permette di mangiare alle 12 senza dover interrompere la passeggiata.
+> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli nel cuore del Marais, presso il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, eliminiamo completamente il viaggio di ritorno a Montmartre. **Portiamo il pranzo alla fine della passeggiata**, proprio sulla strada verso il punto in cui abbiamo lasciato i bagagli. In questo modo il percorso forma sostanzialmente un anello, evitando inutili ritorni sui nostri passi.
 
 **☕🥐 8:00 — Colazione e check-out**
 
@@ -287,13 +287,13 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 
 **🚇🧳 8:45 — Metro da Montmartre → deposito bagagli**
 
-Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul o Hôtel de Ville.
+Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul.
 
-Si lasciano le valigie al punto di deposito selezionato e si parte definitivamente per l'ultima passeggiata.
+Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
 
-Partenza dalla zona dell'Île Saint-Louis.
+Dal deposito si raggiunge la zona dell'Île Saint-Louis.
 
 Questa volta **iniziamo proprio da qui**, anziché arrivarci alla fine. Attraversiamo l'isola con calma, godendoci quella che sarà comunque l'ultima passeggiata del viaggio.
 
@@ -319,21 +319,19 @@ Qui abbiamo completato sostanzialmente tutto il percorso previsto nella versione
 
 Ultimo tratto a piedi verso il pranzo.
 
-[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=%C3%8Ele+Saint-Louis,+Paris&destination=21+Boulevard+Beaumarchais,+75004+Paris&waypoints=H%C3%B4tel+de+Ville,+Paris%7CRue+des+Rosiers,+Paris%7CPlace+des+Vosges,+Paris&travelmode=walking)
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris&destination=21+Boulevard+Beaumarchais,+75004+Paris&waypoints=%C3%8Ele+Saint-Louis,+Paris%7CH%C3%B4tel+de+Ville,+Paris%7CRue+des+Rosiers,+Paris%7CPlace+des+Vosges,+Paris&travelmode=walking)
 
 **🍽️❤️ 12:00–13:15 — Pranzo con calma**
 
 **L'Atelier Entrecôte & Volaille — 21 Boulevard Beaumarchais, 75004 Paris.**
 
- È l'ultimo pranzo del viaggio e non deve diventare un semplice "mangiamo prima dell'aereo" avremo tempo poi per un'ultima passeggiata.
+È l'ultimo pranzo del viaggio e non deve diventare un semplice "mangiamo prima dell'aereo". Avremo tempo poi per un'ultima passeggiata.
 
 **🌊🧳 13:15–13:45 — Ultima passeggiata e ritiro bagagli**
 
-Dopo pranzo si torna verso il punto di deposito bagagli nella zona Marais/Hôtel de Ville.
+Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**, recuperando le valigie senza dover tornare verso Hôtel de Ville.
 
-[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=H%C3%B4tel+de+Ville,+Paris&travelmode=walking)
-
-Il vantaggio è che **non dobbiamo più fare Île Saint-Louis → Marais dopo pranzo**: quella parte l'abbiamo già fatta prima di sederci a tavola.
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=18+Rue+Barbette,+75003+Paris&travelmode=walking)
 
 **🚖 13:45–14:15 — Partenza direttamente dal centro per l'aeroporto**
 
