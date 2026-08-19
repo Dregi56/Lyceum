@@ -133,7 +133,7 @@ Partenza dall'albergo. Si sale, non si cammina in salita: il tragitto a piedi si
 - **17:15–17:30** — A piedi fino alla stazione del funicolare, lungo Rue des Abbesses.
 - **17:30–17:35** — Salita con il funicolare fino a Sacré-Cœur.
 - **17:35–18:20** — Visita della basilica, poi sosta davanti al Sacré-Cœur a guardare Parigi dall'alto. Non salirei sulla cupola.
-- **18:20–19:45** — Passeggiata di ritorno, in discesa: Place du Tertre → La Maison Rose → Rue de l'Abreuvoir → Place Dalida → Moulin de la Galette → Rue Lepic → albergo.
+- **18:20–19:45** — Passeggiata di ritorno, in discesa: Place du Tertre → La Maison Rose → Rue de l'Abreuvoir → Place Dalida → Moulin de la Galette → Rue Lepic → hotel.
 
 Durante la discesa:
 - 🌿 Se una strada piace, ci si ferma.
