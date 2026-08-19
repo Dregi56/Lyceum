@@ -51,7 +51,7 @@ Quindi:
 
 | Ora | Cosa |
 |---|---|
-| 🛬 15:00 | arrivo a Parigi |
+| 🛬 14:40 | arrivo a Parigi |
 | 🏨 16:30 | arrivo a Montmartre |
 | ⛪ 17:15 | funicolare e Sacré-Cœur |
 | 🚶 18:20 | passeggiata di ritorno (Tertre, Maison Rose, Rue Lepic) |
@@ -120,7 +120,8 @@ Quindi:
 **✈️ 13:00 — Partenza da Venezia**
 Volo Venezia → Parigi.
 
-**🛬 15:00 circa — Arrivo a Parigi**
+**🛬 14:40 circa — Arrivo a Parigi**
+L'appuntamento con taxi può realisticamente essere fissato per le 15.15
 Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferimento.
 
 **🏨 16:30 circa — Arrivo a Montmartre**
