@@ -279,7 +279,7 @@ Saint-Germain-des-Prés (linea 4) → Château Rouge, diretta, senza cambi — m
 
 Questo giorno rimane molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
 
-> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli in un deposito nel Marais (o vicino a Hôtel de Ville/Châtelet), eliminiamo completamente il viaggio di ritorno a Montmartre. Con la nuova versione facciamo però un passo in più: **portiamo il pranzo alla fine della passeggiata**, proprio sulla strada verso il punto in cui abbiamo lasciato i bagagli. Questo rende il percorso più naturale e ci permette di mangiare alle 12 senza dover interrompere la passeggiata.
+> 💡 **Ottimizzazione logistica:** facendo il check-out al mattino e lasciando i bagagli in un deposito nel Marais (o vicino a Hôtel de Ville/Châtelet), eliminiamo completamente il viaggio di ritorno a Montmartre. **Portiamo il pranzo alla fine della passeggiata**, proprio sulla strada verso il punto in cui abbiamo lasciato i bagagli. Questo rende il percorso più naturale e ci permette di mangiare alle 12 senza dover interrompere la passeggiata.
 
 **☕🥐 8:00 — Colazione e check-out**
 
