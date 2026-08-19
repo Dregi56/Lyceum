@@ -264,7 +264,6 @@ Questa volta bistrot obbligatorio. Seduti. Caffè o aperitivo.
 **🚇 18:00–19:00 — Rientro verso il centro**
 Metro. Io non tornerei subito a Montmartre. Porterei il gruppo verso Saint-Germain-des-Prés. Charles de Gaulle-Étoile (linea 6) → La Motte-Picquet-Grenelle, cambio linea 10 → Mabillon.
 
-> ⚠️ Due cambi: calcolare più vicino ai 30 minuti pieni che a "circa 30".
 
 **🍽️ 19:00–21:00 — L'ultimo grande bistrot**
 Un tavolino all'aperto. 🥂 Aperitivo. Cena. Gente che passa. Conversazione.
