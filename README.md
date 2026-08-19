@@ -91,19 +91,21 @@ Quindi:
 | 🚇 21:00 | metro verso Montmartre |
 | 🏨 22:00 | albergo |
 
-### 🧺 [Giorno 3 — Marais + Île Saint-Louis + Senna + Aeroporto](#giorno-3)
+### 🧺 [Giorno 3 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
 
 | Ora | Cosa |
 |---|---|
 | ☕🥐 08:00 | colazione e check-out definitivo da Montmartre |
 | 🚇 08:45 | metro verso il centro |
-| 🧳 09:00 | deposito bagagli in zona Marais/Centro |
-| 🥖 09:30 | Marais |
-| 🏛️ 11:30 | Hôtel de Ville |
-| 🏝️ 12:15 | Île Saint-Louis |
-| 🍽️ 12:45 | pranzo con calma al bistrot |
-| 🌊🧳 14:00 | ultima passeggiata sulla Senna e ritiro bagagli dal deposito |
-| 🚖 14:30 | partenza diretta dal centro verso l'aeroporto |
+| 🧳 09:30 | deposito bagagli in zona Marais/Saint-Paul |
+| 🏝️ 09:30 | Île Saint-Louis |
+| 🏛️ 10:15 | Hôtel de Ville |
+| 🥖 10:45 | Rue des Rosiers → Le Marais |
+| 🏛️ 11:20 | Place des Vosges |
+| 🚶 11:45 | passeggiata verso Boulevard Beaumarchais |
+| 🍽️❤️ 12:00 | pranzo con calma all'Entrecôte |
+| 🌊🧳 13:15 | ultima passeggiata e ritiro bagagli dal deposito |
+| 🚖 13:45 | partenza diretta dal centro verso l'aeroporto |
 | 🛄 16:30 | arrivo in aeroporto (Orly) |
 | 🛫🌍 18:30 | volo Parigi → Venezia |
 
