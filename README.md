@@ -215,9 +215,7 @@ Questo è il giorno del Louvre. E abbiamo una fortuna: è venerdì, quindi il Lo
 **🚇 8:45 — Partenza da Montmartre**
 Metro verso il Louvre. Abbesses (linea 12) → Concorde, cambio linea 1 → Palais Royal-Musée du Louvre.
 
-> ⚠️ Con il cambio, 30 minuti sono onestamente stretti per un ritmo tranquillo: meglio uscire verso le 8:30, oppure accettare un arrivo verso le 9:20 anziché le 9:15 (l'ingresso a fascia oraria di solito tollera qualche minuto).
-
-**🖼️ 9:15 — Arrivo al Louvre**
+**🖼️ 9:15-9:20 — Arrivo al Louvre**
 Ingresso prenotato. Il Louvre raccomanda la prenotazione di una fascia oraria.
 
 **🖼️ 9:30–12:30 — ↗️ [LOUVRE](louvre.md): solo le opere che ci interessano**
