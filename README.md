@@ -125,10 +125,10 @@ L'appuntamento con taxi può realisticamente essere fissato per le 15.15
 Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferimento.
 
 **🏨 16:30 circa — Arrivo a Montmartre**
-Arrivo in albergo. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
+Arrivo in hotel. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
 **⛪🚶‍♀️ 17:15–19:45 — Funicolare, Sacré-Cœur e passeggiata di ritorno** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=57+Rue+des+Abbesses,+75018+Paris,+France&destination=57+Rue+des+Abbesses,+75018+Paris,+France&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
-Partenza dall'albergo. Si sale, non si cammina in salita: il tragitto a piedi si fa tutto al ritorno, in discesa.
+Partenza dall'hotel. Si sale, non si cammina in salita: il tragitto a piedi si fa tutto al ritorno, in discesa.
 
 - **17:15–17:30** — A piedi fino alla stazione del funicolare, lungo Rue des Abbesses.
 - **17:30–17:35** — Salita con il funicolare fino a Sacré-Cœur.
