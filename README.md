@@ -337,7 +337,7 @@ Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**
 
 Si recuperano i bagagli e si parte direttamente dal centro.
 
-Il taxi o la RER B da Châtelet/Saint-Michel sono molto comodi e diretti da questa zona centrale. Partendo intorno alle **14:00**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
+Il taxi è la soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'aeroporto di Orly in circa 25 minuti, molto comoda e diretta da questa zona centrale. Partendo intorno alle **14:00**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
 
 **🛄 16:30 — Aeroporto**
 
