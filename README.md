@@ -168,8 +168,10 @@ Non camminiamo fino al centro. Usiamo la metro. La stazione di partenza è Abbes
 **🏝️ 9:30–11:30 — Île de la Cité** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
 Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
 
-**⛪ 10:15–11:30 — Notre-Dame**
-Visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto. Se possibile segue la visita di Sainte-Chapelle.
+**⛪ 10:15–11:00 — Notre-Dame**
+Visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto. .
+
+**⛪11:00–11:30 visita di Sainte-Chapelle**
 
 **🌊 11:30–12:15 — Quai de l'Horloge / Senna**
 Usciti da Notre-Dame, dopo Sainte Chapelle : passeggiata lungo la Senna. Questo è già uno dei momenti nei quali Parigi deve essere semplicemente guardata. 📚 Bouquinistes. ⛵ Barche. 🌉 Ponti. 🚶 Persone.
@@ -235,6 +237,7 @@ Questa deve essere una visita 'militare' nella precisione.
 - 🗿 **Venere di Milo** 
 
 Parte delle opere indicate sono concentrate nell'area Denon, per cui il percorso può essere molto più compatto di una visita generale del museo.
+⚠️ Una settimana prima controllare la mappa ufficiale delle sale aperte del Louvre e, se necessario, modificare l'ordine delle opere.
 
 **🚪 12:30 — Uscita**
 Basta Louvre. Non aggiungiamo altre opere «già che ci siamo».
@@ -337,7 +340,7 @@ Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**
 
 Si recuperano i bagagli e si parte direttamente dal centro.
 
-Il taxi è la soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'aeroporto di Orly in circa 25 minuti, molto comoda e diretta da questa zona centrale. Partendo intorno alle **14:00**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
+Il taxi è la soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'aeroporto di Orly in circa 25 minuti, molto comoda e diretta da questa zona centrale. Partendo intorno alle **14:15**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
 
 **🛄 16:30 — Aeroporto**
 
