@@ -193,7 +193,7 @@ Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
 **🚇 16:00 — Metro/taxi verso la Tour Eiffel**
 Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. RER C, stazione Musée d'Orsay (5-10 min a piedi da Saint-Germain) → Champ de Mars-Tour Eiffel, una fermata diretta, senza cambi.
 
-**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Trocad%C3%A9ro,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
+**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Trocad%C3%A9ro,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
 Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso: zona Trocadéro → vista della Torre → attraversamento → Champs de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
 **🥂 18:30–19:30 — Aperitivo**
@@ -243,8 +243,7 @@ Parte delle opere indicate sono concentrate nell'area Denon, per cui il percorso
 Basta Louvre. Non aggiungiamo altre opere «già che ci siamo».
 
 **☕ 12:30–13:15 — Pausa**
-Mi è stato consigliato 'RELAIS DELL'ENTRECOTE': Zona Champs-Élysées: 15 rue Marbeuf (entré d'insalata poi bistecca di manzo + patatine fritte 29 euro).
-Oppure rimaniamo leggeri e prima di continuare, ci sediamo. Caffè / bibita / qualcosa  di leggero.
+Rimaniamo leggeri e prima di continuare, ci sediamo. Caffè / bibita / qualcosa  di leggero.
 
 **🌳 13:15–14:30 — Jardin des Tuileries** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris|Avenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
 Entriamo nelle Tuileries. Passeggiata tranquilla. Sedie. Fontane. Viali. Niente fretta. A settembre il giardino ha orario ampio; per il 25 settembre l'orario indicato dal Louvre è 7:00–21:00.
