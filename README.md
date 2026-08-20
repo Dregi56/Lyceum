@@ -68,7 +68,8 @@ Quindi:
 | 🍽️ 12:30 | pranzo |
 | 📚 14:00 | Rive Gauche / Quartiere Latino |
 | ☕ 15:30 | pausa a Saint-Germain |
-| 🚇🗼 16:30 | Tour Eiffel e Champs de Mars |
+| 🚇 16:00 | RER C → Champ de Mars–Tour Eiffel |
+| 🗼 16:30 | Tour Eiffel → Trocadéro |
 | 🥂 18:30 | aperitivo |
 | 🍽️ 19:30 | cena |
 | 🚇 21:00 | metro verso Montmartre |
