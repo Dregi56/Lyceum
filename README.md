@@ -40,7 +40,7 @@ Quindi:
 *🏆 È il giorno più classico.*
 
 ### 📅 Sabato 26 — *La Parigi quotidiana*
-**Marais + Hôtel de Ville + Île Saint-Louis + Senna**
+**Île Saint-Louis + Senna + Marais + Hôtel de Ville**
 *🛋️ È il giorno più rilassato e ci porta naturalmente verso la partenza.*
 
 ---
@@ -64,12 +64,13 @@ Quindi:
 |---|---|
 | 🏝️ 09:30 | Île de la Cité |
 | ⛪ 10:15 | Notre-Dame |
+| ⛪ 11:00 | Sainte-Chapelle |
 | 🌊 11:30 | quai / Senna |
 | 🍽️ 12:30 | pranzo |
 | 📚 14:00 | Rive Gauche / Quartiere Latino |
 | ☕ 15:30 | pausa a Saint-Germain |
 | 🚇 16:00 | RER C → Champ de Mars–Tour Eiffel |
-| 🗼 16:30 | Tour Eiffel → Trocadéro |
+| 🗼 16:30 | Champ de Mars → Torre → Trocadéro → Champ de Mars |
 | 🥂 18:30 | aperitivo |
 | 🍽️ 19:30 | cena |
 | 🚇 21:00 | metro verso Montmartre |
@@ -98,7 +99,7 @@ Quindi:
 |---|---|
 | ☕🥐 08:00 | colazione e check-out definitivo da Montmartre |
 | 🚇 08:45 | metro verso il centro |
-| 🧳 09:30 | deposito bagagli in zona Marais/Saint-Paul |
+| 🧳 09:15 | deposito bagagli in zona Marais/Saint-Paul |
 | 🏝️ 09:30 | Île Saint-Louis |
 | 🏛️ 10:15 | Hôtel de Ville |
 | 🥖 10:45 | Rue des Rosiers → Le Marais |
@@ -194,8 +195,8 @@ Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
 **🚇 16:00 — Metro/taxi verso la Tour Eiffel**
 Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. RER C, stazione Musée d'Orsay (5-10 min a piedi da Saint-Germain) → Champ de Mars-Tour Eiffel, una fermata diretta, senza cambi.
 
-**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Trocad%C3%A9ro,+Paris&waypoints=Tour+Eiffel,+Paris&travelmode=walking)
-Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso: zona Trocadéro → vista della Torre → attraversamento → Champs de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
+**🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris%7CTrocad%C3%A9ro,+Paris&travelmode=walking)
+Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
 **🥂 18:30–19:30 — Aperitivo**
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
@@ -279,8 +280,9 @@ Saint-Germain-des-Prés (linea 4) → Château Rouge, diretta, senza cambi — m
 
 ---
 
-# 📅 Sabato 26 settembre
-## Giorno 3 — Île Saint-Louis → Senna → Marais → Entrecôte → Aeroporto
+## 📅 Sabato 26 settembre
+### Giorno 3 — Île Saint-Louis → Senna → Marais → Entrecôte → Aeroporto
+{: #giorno-3}
 
 Questo giorno rimane molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
 
@@ -298,7 +300,7 @@ Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, si lascian
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
 
-Dal deposito si raggiunge la zona dell'Île Saint-Louis.
+Dal deposito si raggiunge la zona dell'Île Saint-Louis (10-15 minuti a piedi da Rue Barbette).
 
 Questa volta **iniziamo proprio da qui**, anziché arrivarci alla fine. Attraversiamo l'isola con calma, godendoci quella che sarà comunque l'ultima passeggiata del viaggio.
 
@@ -349,6 +351,7 @@ Stazione / Terminal Check-in / bagagli / controlli.
 Poi finalmente possiamo sederci. 🪑
 
 **🛫🌍 18:30 — Volo Parigi → Venezia**
+
 ---
 
 ## 🧳 (*) Deposito bagagli
