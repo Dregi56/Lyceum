@@ -107,7 +107,7 @@ Quindi:
 | 🚶 11:45 | passeggiata verso Boulevard Beaumarchais |
 | 🍽️❤️ 12:00 | pranzo con calma all'Entrecôte |
 | 🌊🧳 13:15 | ultima passeggiata e ritiro bagagli dal deposito |
-| 🚖 13:45 | partenza diretta dal centro verso l'aeroporto |
+| 🚖 13:45 | partenza dal centro verso Orly |
 | 🛄 16:30 | arrivo in aeroporto (Orly) |
 | 🛫🌍 18:30 | volo Parigi → Venezia |
 
@@ -125,8 +125,7 @@ Quindi:
 Volo Venezia → Parigi.
 
 **🛬 14:40 circa — Arrivo a Parigi**
-L'appuntamento con taxi può realisticamente essere fissato per le 15.15
-Consideriamo prudenzialmente circa un'ora e mezza tra sbarco, bagagli e trasferimento.
+Consideriamo circa 1h45–1h50 complessive tra sbarco, bagagli e trasferimento, con taxi fissato orientativamente alle 15:15.
 
 **🏨 16:30 circa — Arrivo a Montmartre**
 Arrivo in hotel. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
@@ -192,8 +191,8 @@ Passeggiata molto tranquilla. Percorso: Saint-Michel → Rue Saint-Séverin → 
 **☕ 15:30–16:00 — Pausa caffè**
 Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
 
-**🚇 16:00 — Metro/taxi verso la Tour Eiffel**
-Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. RER C, stazione Musée d'Orsay (5-10 min a piedi da Saint-Germain) → Champ de Mars-Tour Eiffel, una fermata diretta, senza cambi.
+**🚇 16:00 — A piedi/taxi verso Musée d'Orsay, poi RER C**
+Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. 10-15 minuti a piedi da Saint-Germain fino alla stazione RER C di Musée d'Orsay, poi Musée d'Orsay → Invalides → Pont de l'Alma → Champ de Mars-Tour Eiffel, 3 fermate senza cambi.
 
 **🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris%7CTrocad%C3%A9ro,+Paris&travelmode=walking)
 Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
@@ -338,11 +337,11 @@ Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**
 
 [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=18+Rue+Barbette,+75003+Paris&travelmode=walking)
 
-**🚖 13:45–14:15 — Partenza direttamente dal centro per l'aeroporto**
+**🚖 13:45–14:15 — Partenza dal centro verso Orly**
 
 Si recuperano i bagagli e si parte direttamente dal centro.
 
-Il taxi è la soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'aeroporto di Orly in circa 25 minuti, molto comoda e diretta da questa zona centrale. Partendo intorno alle **14:15**, abbiamo ancora un margine molto ampio per essere all'aeroporto alle 16:30.
+Taxi come soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'Aéroport d'Orly in circa 25 minuti. Obiettivo: essere in aeroporto entro le 16:00–16:30, quindi con circa 2 ore di margine sul volo delle 18:30.
 
 **🛄 16:30 — Aeroporto**
 
