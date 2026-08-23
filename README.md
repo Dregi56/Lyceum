@@ -131,7 +131,7 @@ Consideriamo circa 1h45–1h50 complessive tra sbarco, bagagli e trasferimento, 
 Arrivo in hotel. Check-in. Sistemazione. Pausa di 30–45 minuti. Non bisogna avere fretta di uscire. Dopo il viaggio, è meglio cominciare Parigi con energia sufficiente.
 
 **⛪🚶‍♀️ 17:15–19:45 — Funicolare, Sacré-Cœur e passeggiata di ritorno** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=57+Rue+des+Abbesses,+75018+Paris,+France&destination=57+Rue+des+Abbesses,+75018+Paris,+France&waypoints=Rue+des+Abbesses,+Paris%7CFuniculaire+de+Montmartre,+Paris%7CBasilique+du+Sacr%C3%A9-C%C5%93ur,+Paris%7CPlace+du+Tertre,+Paris%7CLa+Maison+Rose,+Paris%7CRue+de+l%27Abreuvoir,+Paris%7CPlace+Dalida,+Paris%7CMoulin+de+la+Galette,+Paris%7CRue+Lepic,+Paris&travelmode=walking)
-Partenza dall'hotel. Si sale, non si cammina in salita: il tragitto a piedi si fa tutto al ritorno, in discesa.
+Partenza dall'hotel. Si raggiunge a piedi la stazione inferiore del funicolare e da lì si sale fino al Sacré-Cœur. La passeggiata successiva è prevalentemente in discesa.
 
 - **17:15–17:30** — A piedi fino alla stazione del funicolare, lungo Rue des Abbesses.
 - **17:30–17:35** — Salita con il funicolare fino a Sacré-Cœur.
@@ -255,7 +255,7 @@ Si continua verso la Concorde. Qui ci fermiamo per osservare la grande prospetti
 **🛍️ 15:15–16:30 — Champs-Élysées**
 Camminata lenta. Non necessariamente tutta a piedi. Se le gambe chiedono una pausa: ci si siede. Se qualcuno vuole entrare in un negozio: si entra. Non abbiamo un cronometro. (Circa 1,9 km in 75 minuti con soste.)
 
-Dopo 15-20 minuti di cammino, se la salita si fa sentire, ci infiliamo nella prima bocca della metropolitana (Linea 1) e raggiungiamo l'Arco di Trionfo in un lampo, usando il tempo risparmiato per anticipare la sosta al bistrot! 🚇⏱️
+Se dopo un tratto di cammino le gambe chiedono una pausa, ci infiliamo nella prima bocca della metropolitana (Linea 1) e raggiungiamo l'Arco di Trionfo in un lampo, usando il tempo risparmiato per anticipare la sosta al bistrot! 🚇⏱️
 
 **🏛️ 16:30–17:15 — Arc de Triomphe**
 Arrivo all'Arco. Qui farei una scelta diversa dal programma precedente: NON è obbligatorio salire. Per voi penso sia meglio considerarlo soprattutto come punto finale dell'asse monumentale. La visita interna dura circa 45 minuti, ma richiede scale e quindi non la considero necessaria. L'Arco, comunque, è aperto fino alle 23 nel periodo 1 aprile–30 settembre.
