@@ -31,8 +31,8 @@ Quindi:
 **Notre-Dame + Sainte-Chapelle + Montmartre + Sacré-Cœur**
 *Arriviamo, tocchiamo subito il cuore storico di Parigi, poi entriamo nella città che ci ospita.*
 
-### 🏛️ Giovedì 24 — *La Parigi storica*
-**Île de la Cité + Notre-Dame + Sainte Chapelle + Rive Gauche + Senna + Tour Eiffel**
+### 🏛️ Giovedì 24 — *La Parigi della Rive Gauche*
+**Jardin du Luxembourg + Saint-Germain-des-Prés + Quartiere Latino + Tour Eiffel**
 *💞 È il giorno più «romantico».*
 
 ### 🖼️ Venerdì 25 — *La Parigi monumentale*
@@ -65,16 +65,16 @@ Quindi:
 | 🍽️ 21:00 | cena |
 | 🏨 22:30 | albergo |
 
-### 🏛️ [Giorno 1 — Île de la Cité + Notre-Dame + Sainte Chapelle + Rive Gauche + Senna + Tour Eiffel](#giorno-1)
+### 🏛️ [Giorno 1 — Jardin du Luxembourg + Saint-Germain-des-Prés + Quartiere Latino + Tour Eiffel](#giorno-1)
 
 | Ora | Cosa |
 |---|---|
-| 🏝️ 09:30 | Île de la Cité |
-| ⛪ 10:15 | Notre-Dame |
-| ⛪ 11:00 | Sainte-Chapelle |
-| 🌊 11:30 | quai / Senna |
+| 🥐 08:00 | colazione |
+| 🚇 08:45 | metro Abbesses → Sèvres-Babylone |
+| 🌳 09:15 | Jardin du Luxembourg |
+| ⛪ 10:15 | Saint-Germain-des-Prés |
+| 📚 11:00 | Quartiere Latino / quai Senna |
 | 🍽️ 12:30 | pranzo |
-| 📚 14:00 | Rive Gauche / Quartiere Latino |
 | ☕ 15:30 | pausa a Saint-Germain |
 | 🚇 16:00 | RER C → Champ de Mars–Tour Eiffel |
 | 🗼 16:30 | Champ de Mars → Torre → Trocadéro → Champ de Mars |
@@ -138,7 +138,7 @@ Consideriamo circa 15-20 minuti tra sbarco e ritiro bagagli, poi si parte verso 
 Orlyval (navetta automatica, 6-8 minuti) fino ad Antony, poi RER B fino a Saint-Michel–Notre-Dame (circa 25 minuti), un solo cambio. Tempo totale 30-35 minuti. La stazione è letteralmente sotto il sagrato della cattedrale. Biglietto necessario: "Paris Région ↔ Aéroports" (il biglietto metro normale non è valido su Orlyval).
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
-Deposito valigie presso City-Locker — 6 Rue des Bernardins, 75005 Paris è a circa 5-7 minuti a piedi dalla stazione, sulla riva sinistra quindi anche comodo perché è già sulla strada verso Notre-Dame (basta attraversare il Petit Pont/Pont au Double) per essere liberi dai bagagli durante la visita: né Notre-Dame né Sainte-Chapelle li ammettono.
+Deposito valigie presso un punto vicino alla stazione (es. City-Locker, 6 Rue des Bernardins, 75005)  è a circa 5-7 minuti a piedi dalla stazione basta attraversare il Petit Pont/Pont au Double.
 
 **🏝️⛪ 16:15–17:15 — Île de la Cité e Notre-Dame**
 Passeggiata verso Notre-Dame, poi visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto.
@@ -174,52 +174,45 @@ Durante la discesa:
 Rimanete nel quartiere. Zona consigliata: Rue des Abbesses / Rue Lepic / Rue des Trois Frères. Cena senza formalità.
 
 **🌙 22:30 — Fine giornata**
-A letto un po' più tardi rispetto al piano originale, ma è la conseguenza della giornata più densa spostata qui. Il giorno seguente (24) rimane comunque pieno, quindi vale la pena non prolungare oltre.
+A letto un po' più tardi rispetto al piano originale, ma è la conseguenza della giornata più densa spostata qui.
 
 ---
 
 ## 🏛️ Giovedì 24 settembre
-### Giorno 1 — Île de la Cité → Notre-Dame → Rive Gauche → Tour Eiffel
+### Giorno 1 — Rive Gauche → Luxembourg → Tour Eiffel
 {: #giorno-1}
 
-Questo sarà il giorno dedicato alla Parigi storica e alla Senna, con la Torre Eiffel nel pomeriggio. È il giorno nel quale cammineremo di più, ma in blocchi separati.
+Con Notre-Dame e Sainte-Chapelle già viste il giorno dell'arrivo, questa giornata si concentra sulla Rive Gauche, con un pezzo in più al mattino, e sulla Torre Eiffel nel tardo pomeriggio.
 
 **🥐 8:00–8:45 — Colazione**
 Colazione tranquilla in zona albergo.
 
-**🚇 8:45 — Metro da Montmartre → Île de la Cité**
-Non camminiamo fino al centro. Usiamo la metro. La stazione di partenza è Abbesses che si trova a 2-3 minuti a piedi dall'albergo nella piazza dove Rue des Abbesses si allarga. ⚠️ Per scendere, **prendere l'ascensore** per evitare 250 gradini a chiocciola. Quindi Abbesses (linea 12) → Concorde, cambio linea 1 →  si scende a Châtelet, poi 7-8 minuti a piedi lungo la Senna fino a Pont Neuf.
+**🚇 8:45–9:15 — Metro da Montmartre → Sèvres-Babylone**
+Abbesses (linea 12) → Sèvres-Babylone, diretta, senza cambi. Circa 20-25 minuti.
 
-**🏝️ 9:30–11:30 — Île de la Cité** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Pont+Neuf,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Place+Dauphine,+Paris|Cath%C3%A9drale+Notre-Dame+de+Paris|Quai+de+l%27Horloge,+Paris&travelmode=walking)
-Partenza da: Pont Neuf. Poi: Place Dauphine → Île de la Cité → Notre-Dame. Passeggiata lenta. La Place Dauphine merita una piccola sosta. Non dobbiamo «vedere tutto».
+**🌳 9:15–10:15 — Jardin du Luxembourg** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=S%C3%A8vres-Babylone,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Jardin+du+Luxembourg,+Paris&travelmode=walking)
+Dalla stazione, 8-10 minuti a piedi fino al giardino. Passeggiata tranquilla tra i vialetti, le sedie verdi intorno al bacino centrale. Se qualcuno vuole solo sedersi a guardare la fontana Médicis, ci si siede.
 
-**⛪ 10:15–11:00 — Notre-Dame**
-Visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto. .
+**⛪ 10:15–11:00 — Saint-Germain-des-Prés**
+Usciti dal giardino, si raggiunge la chiesa di Saint-Germain-des-Prés e le viuzze intorno — Rue de Buci, Rue de Seine.
 
-**⛪11:00–11:30 visita di Sainte-Chapelle**
-
-**🌊 11:30–12:15 — Quai de l'Horloge / Senna**
-Usciti da Notre-Dame, dopo Sainte Chapelle : passeggiata lungo la Senna. Questo è già uno dei momenti nei quali Parigi deve essere semplicemente guardata. 📚 Bouquinistes. ⛵ Barche. 🌉 Ponti. 🚶 Persone.
-
-**🌉 12:15–12:30 — Pont Saint-Michel**
-Attraversamento verso la Rive Gauche.
+**📚🌊 11:00–12:30 — Quartiere Latino e quai della Senna** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Germain-des-Pr%C3%A9s,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Sorbonne,+Paris%7CBoulevard+Saint-Michel,+Paris%7CQuai+Saint-Michel,+Paris&travelmode=walking)
+Passeggiata verso Boulevard Saint-Michel e la Sorbona, poi discesa verso i quai — bouquinistes, Senna, ponti — prima del pranzo.
 
 **🍽️ 12:30–14:00 — Pranzo al bistrot**
-Zona: Saint-Michel / Quartiere Latino / Saint-Germain. Qui voglio una vera pausa. Tavolino. Pranzo. ☕ Caffè. Guardare la gente. Un'ora e un quarto almeno. Nessuna fretta.
+Zona Saint-Michel / Quartiere Latino. Tavolino, pranzo con calma, un'ora e un quarto almeno.
 
-**📚 14:00–15:30 — Rive Gauche** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Michel,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Boulevard+Saint-Michel,+Paris|Sorbonne,+Paris&travelmode=walking)
-Passeggiata molto tranquilla. Percorso: Saint-Michel → Rue Saint-Séverin → Boulevard Saint-Michel → Sorbona → Saint-Germain-des-Prés. Non occorre percorrerlo tutto a piedi. Se qualcuno è stanco: metro o taxi per un tratto.
-
-> 🚇 Piano B pronto all'uso: Saint-Michel (linea 4) → Saint-Germain-des-Prés, un solo salto diretto, 3 minuti. (Sono circa 1,3 km: a passo lento con soste può facilmente superare i 20 minuti — tenere il piano B a portata di mano, non improvvisarlo.)
+**☕ 14:00–15:30 — Tempo libero**
+Zona Saint-Germain, senza fretta.
 
 **☕ 15:30–16:00 — Pausa caffè**
-Questa pausa è obbligatoria, non opzionale. Un bistrot. Un caffè. Seduti.
+Come da programma originale: un bistrot, un caffè, seduti.
 
 **🚇 16:00 — A piedi/taxi verso Musée d'Orsay, poi RER C**
-Qui non farei più chilometri inutili. Ci spostiamo rapidamente verso la Torre. 10-15 minuti a piedi da Saint-Germain fino alla stazione RER C di Musée d'Orsay, poi Musée d'Orsay → Invalides → Pont de l'Alma → Champ de Mars-Tour Eiffel, 3 fermate senza cambi.
+Invariato: 10-15 minuti a piedi fino alla stazione RER C di Musée d'Orsay, poi Musée d'Orsay → Invalides → Pont de l'Alma → Champ de Mars-Tour Eiffel, 3 fermate senza cambi.
 
 **🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris%7CTrocad%C3%A9ro,+Paris&travelmode=walking)
-Questa parte la terrei assolutamente. Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
+Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
 **🥂 18:30–19:30 — Aperitivo**
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
@@ -357,4 +350,33 @@ Ultimo tratto a piedi verso il pranzo.
 
 **🌊🧳 13:15–13:45 — Ultima passeggiata e ritiro bagagli**
 
-Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**, recuperando le valigie senza dover
+Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**, recuperando le valigie senza dover tornare verso Hôtel de Ville.
+
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=18+Rue+Barbette,+75003+Paris&travelmode=walking)
+
+**🚖 13:45–14:15 — Partenza dal centro verso Orly**
+
+Si recuperano i bagagli e si parte direttamente dal centro.
+
+Taxi come soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'Aéroport d'Orly in circa 25 minuti. Obiettivo: essere in aeroporto entro le 16:00–16:30, quindi con circa 2 ore di margine sul volo delle 18:30.
+
+**🛄 16:30 — Aeroporto**
+
+Stazione / Terminal Check-in / bagagli / controlli.
+
+Poi finalmente possiamo sederci. 🪑
+
+**🛫🌍 18:30 — Volo Parigi → Venezia**
+
+---
+
+## 🧳 (*) Deposito bagagli
+
+### 1️⃣ Bounce (consigliatissimo) 🧳
+Ha oltre 20 punti di deposito solo nel Marais e vicino a Châtelet.
+- 💶 **Costo:** a partire da circa **€ 4,25 – € 5,25 al giorno per bagaglio** (tariffa fissa per 24 ore, senza limiti di peso o dimensione).
+- 🛡️ **Sicurezza:** include una protezione/assicurazione sui bagagli fino a € 10.000.
+
+---
+
+<p align="center">🗼✨ <i>Da Egidio per il gruppo liceali</i> ✨🗼</p>
