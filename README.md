@@ -138,7 +138,7 @@ Consideriamo circa 15-20 minuti tra sbarco e ritiro bagagli, poi si parte verso 
 Orlyval (navetta automatica, 6-8 minuti) fino ad Antony, poi RER B fino a Saint-Michel–Notre-Dame (circa 25 minuti), un solo cambio. Tempo totale 30-35 minuti. La stazione è letteralmente sotto il sagrato della cattedrale. Biglietto necessario: "Paris Région ↔ Aéroports" (il biglietto metro normale non è valido su Orlyval).
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
-Deposito valigie presso un punto Bounce in zona Marais/Cité (stesso servizio previsto per il giorno 3), per essere liberi dai bagagli durante la visita: né Notre-Dame né Sainte-Chapelle li ammettono.
+Deposito valigie presso City-Locker — 6 Rue des Bernardins, 75005 Paris è a circa 5-7 minuti a piedi dalla stazione, sulla riva sinistra quindi anche comodo perché è già sulla strada verso Notre-Dame (basta attraversare il Petit Pont/Pont au Double) per essere liberi dai bagagli durante la visita: né Notre-Dame né Sainte-Chapelle li ammettono.
 
 **🏝️⛪ 16:15–17:15 — Île de la Cité e Notre-Dame**
 Passeggiata verso Notre-Dame, poi visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto.
