@@ -152,7 +152,8 @@ Breve passeggiata lungo la Senna prima di recuperare i bagagli.
 **🧳 18:20 — Ritiro bagagli**
 
 **🚖 18:30–19:15 — Verso Montmartre**
-Taxi verso l'hotel.
+Salimo a Maubert-Mutualité (linea 10, direzione Boulogne–Pont de Saint-Cloud). Cambiamo a Sèvres-Babylone con la linea 12 (direzione Mairie d'Aubervilliers/Front Populaire)
+Scendiamo ad Abbesses.
 
 **🏨 19:15–19:30 — Arrivo hotel, check-in rapido**
 Check-in essenziale, giusto il tempo di lasciare le valigie in camera.
