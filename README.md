@@ -59,7 +59,7 @@ Quindi:
 | ⛪ 17:15 | Sainte-Chapelle |
 | 🌊 18:00 | quai / Senna |
 | 🧳 18:20 | ritiro bagagli |
-| 🚖 18:30 | verso Montmartre |
+| 🚇 18:30 | verso Montmartre |
 | 🏨 19:15 | arrivo hotel, check-in rapido |
 | ⛪🚶 19:30 | funicolare e Sacré-Cœur, poi passeggiata di ritorno (Tertre, Maison Rose, Rue Lepic) |
 | 🍽️ 21:00 | cena |
@@ -197,7 +197,7 @@ Dalla stazione, 8-10 minuti a piedi fino al giardino. Passeggiata tranquilla tra
 **⛪ 10:15–11:00 — Saint-Germain-des-Prés**
 Usciti dal giardino, si raggiunge la chiesa di Saint-Germain-des-Prés e le viuzze intorno — Rue de Buci, Rue de Seine.
 
-**📚🌊 11:00–12:30 — Quartiere Latino e quai della Senna** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Germain-des-Pr%C3%A9s,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Sorbonne,+Paris%7CBoulevard+Saint-Michel,+Paris%7CQuai+Saint-Michel,+Paris&travelmode=walking)
+**📚🌊 11:00–12:30 — Quartiere Latino e quai della Senna** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Saint-Germain-des-Pr%C3%A9s,+Paris&destination=Pont+Saint-Michel,+Paris&waypoints=Boulevard+Saint-Michel,+Paris%7CSorbonne,+Paris%7CQuai+Saint-Michel,+Paris&travelmode=walking)
 Passeggiata verso Boulevard Saint-Michel e la Sorbona, poi discesa verso i quai — bouquinistes, Senna, ponti — prima del pranzo.
 
 **🍽️ 12:30–14:00 — Pranzo al bistrot**
@@ -291,7 +291,7 @@ Metro. Io non tornerei subito a Montmartre. Porterei il gruppo verso Saint-Germa
 Un tavolino all'aperto. 🥂 Aperitivo. Cena. Gente che passa. Conversazione.
 
 **🚇 21:00–21:30 — Metro → Montmartre**
-Saint-Germain-des-Prés (linea 4) → Château Rouge, diretta, senza cambi — molto comoda per fine giornata.
+Saint-Germain-des-Prés (linea 4) → Montparnasse-Bienvenüe, cambio linea 12 (direzione Front Populaire) → Abbesses. Un cambio, circa 30 minuti.
 
 **🏨 22:00 — Albergo**
 
