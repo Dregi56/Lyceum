@@ -218,13 +218,16 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 **🥂 18:30–19:30 — Aperitivo**
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
-**🍽️ 19:30–21:00 — Cena**
-Cena.
+**🍽️ 19:30–20:30 — Cena**
 
-**🚇 21:00–21:30 — Metro → Montmartre**
+**20:30–20:45	A piedi verso l'imbarco**
+
+**🚤 20:45–21:45	Crociera — le luci di Parigi navigando la Senna**
+
+**🚇 22:15–22:45 — Metro → Montmartre**
 Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses. Un cambio, coerente con i 30 minuti previsti.
 
-**🌙 22:00 — Fine giornata**
+**🌙 23:00 — Fine giornata**
 
 ---
 
