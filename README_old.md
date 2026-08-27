@@ -80,7 +80,7 @@ Quindi:
 | 🗼 16:30 | Champ de Mars → Torre → Trocadéro → Champ de Mars |
 | 🥂 18:30 | aperitivo |
 | 🍽️ 19:30 | cena |
-| 20:45 | crociera serale sulla Senna
+| 🚤 20:45 | crociera serale sulla Senna
 | 🚇 22:15 | metro verso Montmartre |
 | 🏨 23:00 | albergo |
 
