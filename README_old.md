@@ -111,11 +111,12 @@ Quindi:
 | 🏝️ 09:30 | Île Saint-Louis |
 | 🏛️ 10:15 | Hôtel de Ville |
 | 🥖 10:45 | Rue des Rosiers → Le Marais |
-| 🏛️ 11:20 | Place des Vosges |
-| 🚶 11:45 | passeggiata verso Boulevard Beaumarchais |
-| 🍽️❤️ 12:00 | pranzo con calma all'Entrecôte |
-| 🌊🧳 13:15 | ultima passeggiata e ritiro bagagli dal deposito |
-| 🚖 13:45 | partenza dal centro verso Orly |
+| 🏛️ 11:20 | Verso Place des Vosges |
+| 🚶 11:45 | passeggiata verso Boulevard Beaumarchais e Place de la Bastille |
+| 12:10 | Promenade Plantée Jardin de Reuilly ritorno su Avenue Daumesnil
+| 🍽️❤️ 13:30 | pranzo con calma all'Entrecôte |
+| 🌊🧳 14:30 | ultima passeggiata e ritiro bagagli dal deposito |
+| 🚖 14:45 | partenza dal centro verso Orly |
 | 🛄 16:30 | arrivo in aeroporto (Orly) |
 | 🛫🌍 18:30 | volo Parigi → Venezia |
 
