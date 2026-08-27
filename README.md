@@ -337,13 +337,17 @@ Negozi. Caffè. Persone. Strade. 🛍️
 
 Si prosegue verso **Place des Vosges**, attraversando il cuore del Marais.
 
-**🚶 11:45–12:00 — Place des Vosges → Boulevard Beaumarchais**
+**🚶 11:45–12:10 — Place des Vosges → Boulevard Beaumarchais → Place de la Bastille**
+
+**🌿 12:10-12:55 — Promenade Plantée / Viaduc des Arts (parco pensile) → Jardin de Reuilly**
 
 Ultimo tratto a piedi verso il pranzo.
 
-[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris&destination=21+Boulevard+Beaumarchais,+75004+Paris&waypoints=%C3%8Ele+Saint-Louis,+Paris%7CH%C3%B4tel+de+Ville,+Paris%7CRue+des+Rosiers,+Paris%7CPlace+des+Vosges,+Paris&travelmode=walking)
+**12:55-13:15 Ritorno a livello strada su Avenue Daumesnil  → Bastille → Boulevard Beaumarchais**
 
-**🍽️❤️ 12:00–13:15 — Pranzo con calma**
+[--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris&destination=21+Boulevard+Beaumarchais,+75004+Paris&waypoints=%C3%8Ele+Saint-Louis,+Paris%7CH%C3%B4tel+de+Ville,+Paris%7CRue+des+Rosiers,+Paris%7CPlace+des+Vosges,+Paris%7CPlace+de+la+Bastille,+Paris%7CJardin+de+Reuilly,+Paris%7CViaduc+des+Arts,+Paris&travelmode=walking)
+
+**🍽️❤️ 13:30–14:30 — Pranzo con calma**
 
 **L'Atelier Entrecôte & Volaille — 21 Boulevard Beaumarchais, 75004 Paris.**
 
