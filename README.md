@@ -356,15 +356,13 @@ Ultimo tratto a piedi verso il pranzo.
 
 **L'Atelier Entrecôte & Volaille — 21 Boulevard Beaumarchais, 75004 Paris.**
 
-È l'ultimo pranzo del viaggio e non deve diventare un semplice "mangiamo prima dell'aereo". Avremo tempo poi per un'ultima passeggiata.
-
-**🌊🧳 13:15–13:45 — Ultima passeggiata e ritiro bagagli**
-
 Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**, recuperando le valigie senza dover tornare verso Hôtel de Ville.
+
+**🌊🧳 14:30 — Ritiro bagagli**
 
 [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=21+Boulevard+Beaumarchais,+75004+Paris&destination=18+Rue+Barbette,+75003+Paris&travelmode=walking)
 
-**🚖 13:45–14:15 — Partenza dal centro verso Orly**
+**🚖 14:45 — Partenza dal centro verso Orly**
 
 Si recuperano i bagagli e si parte direttamente dal centro.
 
