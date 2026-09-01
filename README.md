@@ -89,8 +89,7 @@ Quindi:
 | Ora | Cosa |
 |---|---|
 | 🖼️ 09:30 | Louvre |
-| 🚪 12:30 | uscita |
-| ☕ 12:30 | pausa pranzo |
+| 🚪☕ 12:30 | uscita e pausa pranzo |
 | 🌳 13:15 | Tuileries |
 | 🗿 14:30 | Concorde |
 | 🛍️ 15:15 | Champs-Élysées |
@@ -153,7 +152,7 @@ Breve passeggiata lungo la Senna prima di recuperare i bagagli.
 
 **🧳 18:20 — Ritiro bagagli**
 
-**🚖 18:30–19:15 — Verso Montmartre**
+**🚇 18:30–19:15 — Verso Montmartre**
 Saliamo a Maubert-Mutualité (linea 10, direzione Boulogne–Pont de Saint-Cloud). Cambiamo a Sèvres-Babylone con la linea 12 (direzione Mairie d'Aubervilliers/Front Populaire)
 Scendiamo ad Abbesses.
 
