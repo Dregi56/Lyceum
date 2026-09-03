@@ -284,19 +284,20 @@ Arrivo all'Arco. Qui farei una scelta diversa dal programma precedente: NON è o
 
 Guardiamo: 🏛️ l'Arco; 🕯️ la tomba del Milite Ignoto; 🌟 la grande Place de l'Étoile; le dodici avenue che partono da qui.
 
-**☕ 17:15–18:00 — Pausa**
-Questa volta bistrot obbligatorio. Seduti. Caffè o aperitivo.
+**☕ 17:15–18:30 — Pausa bistrot**
+Bistrot obbligatorio, seduti. Caffè o aperitivo. Un po' più lunga del previsto: il trasferimento verso La Défense sarà molto più rapido di quanto stimato in origine.
 
-**🚇 18:00–19:00 — Rientro verso il centro**
-Metro. Io non tornerei subito a Montmartre. Porterei il gruppo verso Saint-Germain-des-Prés. Charles de Gaulle-Étoile (linea 6) → La Motte-Picquet-Grenelle, cambio linea 10 → Mabillon.
+**🚇 18:30–18:55 — Verso La Défense**
+RER A da Charles de Gaulle–Étoile, diretta, nessun cambio (~5-8 minuti). Da La Défense (Grande Arche) sono altri 3-4 minuti a piedi fino al Parvis de la Défense.
 
-**🍽️ 19:00–21:00 — Restaurant Puteaux **
-centro commerciale LA BRIGADE 15 Parv. de la Défense. 🥂 Aperitivo. Cena.
+**🍽️🥂 19:00–21:00 — Cena a La Défense**
+**Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena.
 
-**🚇 21:00–21:30 — Metro → Montmartre**
-Saint-Germain-des-Prés (linea 4) → Montparnasse-Bienvenüe, cambio linea 12 (direzione Front Populaire) → Abbesses. Un cambio, circa 30 minuti.
+**🚇 21:00–21:35 — Metro/RER → Montmartre**
+RER A da La Défense fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio).
 
-**🏨 22:00 — Albergo**
+**🏨 23:00 — Albergo**
+Rientro leggermente più tardi rispetto al piano precedente (22:00), per via della corrispondenza a piedi ad Auber/Saint-Lazare.
 
 ---
 
