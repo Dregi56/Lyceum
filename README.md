@@ -96,7 +96,7 @@ Quindi:
 | 🏛️ 16:30 | Arc de Triomphe |
 | ☕ 17:15 | pausa bistrot |
 | 🚇 18:00 | metro verso Saint-Germain |
-| 🍽️🥂 19:00 | cena e aperitivo |
+| 🍽️🥂 19:00 | aperitivo e cena |
 | 🚇 21:00 | metro verso Montmartre |
 | 🏨 22:00 | albergo |
 
