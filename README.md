@@ -290,9 +290,8 @@ Questa volta bistrot obbligatorio. Seduti. Caffè o aperitivo.
 **🚇 18:00–19:00 — Rientro verso il centro**
 Metro. Io non tornerei subito a Montmartre. Porterei il gruppo verso Saint-Germain-des-Prés. Charles de Gaulle-Étoile (linea 6) → La Motte-Picquet-Grenelle, cambio linea 10 → Mabillon.
 
-
-**🍽️ 19:00–21:00 — L'ultimo grande bistrot**
-Un tavolino all'aperto. 🥂 Aperitivo. Cena. Gente che passa. Conversazione.
+**🍽️ 19:00–21:00 — Restaurant Puteaux **
+centro commerciale LA BRIGADE 15 Parv. de la Défense. 🥂 Aperitivo. Cena.
 
 **🚇 21:00–21:30 — Metro → Montmartre**
 Saint-Germain-des-Prés (linea 4) → Montparnasse-Bienvenüe, cambio linea 12 (direzione Front Populaire) → Abbesses. Un cambio, circa 30 minuti.
