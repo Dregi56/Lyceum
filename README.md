@@ -220,15 +220,16 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
 **🍽️ 19:30–20:30 — Cena**
+Reastaurant Margaux 10 Avenue de New York
 
-**20:30–20:45	A piedi verso l'imbarco**
+**20:30–21:15	A piedi verso l'imbarco**
 
-**🚤 20:45–21:45	Crociera — le luci di Parigi navigando la Senna**
+**🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
 
-**🚇 22:15–22:45 — Metro → Montmartre**
+**🚇 22:45–23:00 — Metro → Montmartre**
 Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses. Un cambio, coerente con i 30 minuti previsti.
 
-**🌙 23:00 — Fine giornata**
+**🌙 24:00 — Fine giornata**
 
 ---
 
