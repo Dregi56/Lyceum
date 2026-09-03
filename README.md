@@ -47,7 +47,7 @@ Quindi:
 
 ## 📋 In sintesi
 
-### 🌆 [Giorno 0 — Arrivo, Notre-Dame e Montmartre](#giorno-0)
+### 🌆 [Giorno 1 — Arrivo, Notre-Dame e Montmartre](#giorno-0)
 
 | Ora | Cosa |
 |---|---|
@@ -65,7 +65,7 @@ Quindi:
 | 🍽️ 21:00 | cena |
 | 🏨 22:30 | albergo |
 
-### 🏛️ [Giorno 1 — Jardin du Luxembourg + Saint-Germain-des-Prés + Quartiere Latino + Tour Eiffel](#giorno-1)
+### 🏛️ [Giorno 2 — Jardin du Luxembourg + Saint-Germain-des-Prés + Quartiere Latino + Tour Eiffel](#giorno-1)
 
 | Ora | Cosa |
 |---|---|
@@ -84,7 +84,7 @@ Quindi:
 | 🚇 22:15 | metro verso Montmartre |
 | 🏨 23:00 | albergo |
 
-### 🖼️ [Giorno 2 — Louvre + grande asse monumentale](#giorno-2)
+### 🖼️ [Giorno 3 — Louvre + grande asse monumentale](#giorno-2)
 
 | Ora | Cosa |
 |---|---|
@@ -100,7 +100,7 @@ Quindi:
 | 🚇 21:00 | metro verso Montmartre |
 | 🏨 22:00 | albergo |
 
-### 🧺 [Giorno 3 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
+### 🧺 [Giorno 4 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
 
 | Ora | Cosa |
 |---|---|
@@ -126,7 +126,7 @@ Quindi:
 ---
 
 ## 🌆 Mercoledì 23 settembre
-### Giorno 0 — Arrivo, Notre-Dame e Montmartre
+### Giorno 1 — Arrivo, Notre-Dame e Montmartre
 {: #giorno-0}
 
 **✈️ 13:00 — Partenza da Venezia**
@@ -181,7 +181,7 @@ A letto un po' più tardi rispetto al piano originale, ma è la conseguenza dell
 ---
 
 ## 🏛️ Giovedì 24 settembre
-### Giorno 1 — Rive Gauche → Luxembourg → Tour Eiffel
+### Giorno 2 — Rive Gauche → Luxembourg → Tour Eiffel
 {: #giorno-1}
 
 Con Notre-Dame e Sainte-Chapelle già viste il giorno dell'arrivo, questa giornata si concentra sulla Rive Gauche, con un pezzo in più al mattino, e sulla Torre Eiffel nel tardo pomeriggio.
@@ -233,7 +233,7 @@ Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbess
 ---
 
 ## 🖼️ Venerdì 25 settembre
-### Giorno 2 — Louvre → Tuileries → Concorde → Champs-Élysées → Arc de Triomphe
+### Giorno 3 — Louvre → Tuileries → Concorde → Champs-Élysées → Arc de Triomphe
 {: #giorno-2}
 
 Questo è il giorno del Louvre. E abbiamo una fortuna: è venerdì, quindi il Louvre è aperto fino alle 21. Ma non ne approfitterei per fare una visita interminabile. Per voi tre ore sono perfette.
@@ -302,7 +302,7 @@ Rientro leggermente più tardi rispetto al piano precedente (22:00), per via del
 ---
 
 ## 📅 Sabato 26 settembre
-### Giorno 3 — Île Saint-Louis → Senna → Marais → Entrecôte → Aeroporto
+### Giorno 4 — Île Saint-Louis → Senna → Marais → Entrecôte → Aeroporto
 {: #giorno-3}
 
 Questo giorno rimane molto importante perché non dobbiamo farci ingannare dall'idea di avere ancora una giornata intera. Il volo è alle 18:30. Vogliamo essere all'aeroporto alle 16:30.
