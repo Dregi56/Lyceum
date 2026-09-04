@@ -225,7 +225,7 @@ Restaurant Margaux 10 Avenue de New York
 Ai piedi della Torre Eiffel
 
 **🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
-[Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
+ 🎫[Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
 Molo d'imbarco: 2, Port de Suffren, (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris")
 
 **🚇 22:45–23:15 — Metro → Montmartre**
