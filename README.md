@@ -94,11 +94,10 @@ Quindi:
 | 🗿 14:30 | Concorde |
 | 🛍️ 15:15 | Champs-Élysées |
 | 🏛️ 16:30 | Arc de Triomphe |
-| ☕ 17:15 | pausa bistrot |
-| 🚇 18:00 | metro verso Saint-Germain |
-| 🍽️🥂 19:00 | aperitivo e cena |
-| 🚇 21:00 | metro verso Montmartre |
-| 🏨 22:00 | albergo |
+| ☕ 17:15 | pausa bistrot, poi RER A verso La Défense |
+| 🍽️🥂 19:00 | cena — Restaurant Puteaux, La Brigade |
+| 🚇 21:00 | RER A + linea 12 verso Montmartre |
+| 🏨 22:15 | albergo |
 
 ### 🧺 [Giorno 4 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
 
@@ -220,11 +219,15 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
 **🍽️ 19:30–20:30 — Cena**
-Reastaurant Margaux 10 Avenue de New York
+Restaurant Margaux 10 Avenue de New York
 
 **20:30–21:15	A piedi verso l'imbarco**
+Ai piedi della Torre Eiffel
 
 **🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
+Fornitore: Vedettes de Paris
+Prodotto Tiqets: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"
+Molo d'imbarco: 2, Port de Suffren, (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris")
 
 **🚇 22:45–23:15 — Metro → Montmartre**
 Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses. Un cambio, coerente con i 30 minuti previsti.
@@ -291,14 +294,13 @@ Bistrot obbligatorio, seduti. Caffè o aperitivo. Un po' più lunga del previsto
 **🚇 18:30–18:55 — Verso La Défense**
 RER A da Charles de Gaulle–Étoile, diretta, nessun cambio (~5-8 minuti). Da La Défense (Grande Arche) sono altri 3-4 minuti a piedi fino al Parvis de la Défense.
 
-**🍽️🥂 19:00–21:00 — Cena a La Défense**
+**🍽️🥂 19:30–21:00 — Cena a La Défense**
 **Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena.
 
 **🚇 21:00–21:35 — Metro/RER → Montmartre**
 RER A da La Défense fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio).
 
 **🏨 23:00 — Albergo**
-Rientro leggermente più tardi rispetto al piano precedente (22:00), per via della corrispondenza a piedi ad Auber/Saint-Lazare.
 
 ---
 
