@@ -226,7 +226,7 @@ Reastaurant Margaux 10 Avenue de New York
 
 **🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
 
-**🚇 22:45–23:00 — Metro → Montmartre**
+**🚇 22:45–23:15 — Metro → Montmartre**
 Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses. Un cambio, coerente con i 30 minuti previsti.
 
 **🌙 24:00 — Fine giornata**
