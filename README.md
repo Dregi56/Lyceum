@@ -219,7 +219,7 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
 **🍽️ 20:00–21:00 — Cena**
-Al Café du Marché 38 Rue Cler — uno dei caffè-bistrot più storici della via
+Al Café du Marché 38 Rue Cler — uno dei caffè-bistrot più storici della via.
 Prezzi ragionevoli, atmosfera vivace. Piatti del giorno tipo pollo arrosto, cucina semplice e genuina.
 
 **21:15–21:25	A piedi verso l'imbarco**
