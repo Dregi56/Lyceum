@@ -218,10 +218,11 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 **🥂 18:30–19:30 — Aperitivo**
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
-**🍽️ 19:30–20:30 — Cena**
-Restaurant Margaux 10 Avenue de New York
+**🍽️ 20:00–21:00 — Cena**
+Al Café du Marché 38 Rue Cler — uno dei caffè-bistrot più storici della via
+Prezzi ragionevoli, atmosfera vivace. Piatti del giorno tipo pollo arrosto, cucina semplice e genuina.
 
-**20:30–21:15	A piedi verso l'imbarco**
+**21:15–21:25	A piedi verso l'imbarco**
 Ai piedi della Torre Eiffel
 
 **🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
