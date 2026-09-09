@@ -218,15 +218,15 @@ Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anell
 **🥂 18:30–19:30 — Aperitivo**
 Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
 
-**🍽️ 20:00–21:00 — Cena**
+**🍽️ 20:00–20:55 — Cena**
 Al Café du Marché 38 Rue Cler — uno dei caffè-bistrot più storici della via.
 Prezzi ragionevoli, atmosfera vivace. Piatti del giorno tipo pollo arrosto, cucina semplice e genuina.
 
 **21:15–21:25	A piedi verso l'imbarco**
 Ai piedi della Torre Eiffel
 
-**🚤 21:30–22:30	Crociera — le luci di Parigi navigando la Senna**
- 🎫[Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
+**🚤 21:30–22:30 — Crociera — le luci di Parigi navigando la Senna** [--> 🗺️](https://www.google.com/maps/search/?api=1&query=2+Port+de+Suffren,+75007+Paris,+France)
+🎫 [BIGLIETTO Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
 Molo d'imbarco: 2, Port de Suffren, (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris")
 
 **🚇 22:45–23:15 — Metro → Montmartre**
