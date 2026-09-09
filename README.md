@@ -78,11 +78,12 @@ Quindi:
 | ☕ 15:30 | pausa a Saint-Germain |
 | 🚇 16:00 | RER C → Champ de Mars–Tour Eiffel |
 | 🗼 16:30 | Champ de Mars → Torre → Trocadéro → Champ de Mars |
-| 🥂 18:30 | aperitivo |
-| 🍽️ 19:30 | cena |
-| 🚤 20:45 | crociera serale sulla Senna
-| 🚇 22:15 | metro verso Montmartre |
-| 🏨 23:00 | albergo |
+| 🚶 18:30 | passeggiata verso Rue Cler |
+| 🍽️ 19:30 | cena tranquilla — Café du Marché |
+| 🚶 20:45 | passeggiata verso l'imbarco |
+| 🚤 21:30 | crociera serale sulla Senna |
+| 🚇 22:45 | metro verso Montmartre |
+| 🏨 23:15 | albergo |
 
 ### 🖼️ [Giorno 3 — Louvre + grande asse monumentale](#giorno-2)
 
@@ -215,24 +216,23 @@ Invariato: 10-15 minuti a piedi fino alla stazione RER C di Musée d'Orsay, poi 
 **🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris%7CTrocad%C3%A9ro,+Paris&travelmode=walking)
 Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
 
-**🥂 18:30–19:30 — Aperitivo**
-Zona Torre Eiffel oppure spostamento in metro verso: Saint-Germain / Invalides / Montparnasse. Un aperitivo tranquillo.
+**🚶 18:30–19:20 — Verso Rue Cler** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=38+Rue+Cler,+75007+Paris,+France&travelmode=walking)
+Dal Champ de Mars a Rue Cler sono circa 10-12 minuti a piedi. Niente aperitivo separato: ci si arriva con calma, magari con una sosta lungo la strada del mercato di Rue Cler, così da presentarsi al ristorante già rilassati e non a stomaco vuoto da fretta.
 
-**🍽️ 20:00–20:55 — Cena**
-Al Café du Marché 38 Rue Cler — uno dei caffè-bistrot più storici della via.
-Prezzi ragionevoli, atmosfera vivace. Piatti del giorno tipo pollo arrosto, cucina semplice e genuina.
+**🍽️ 19:30–20:45 — Cena tranquilla**
+**Café du Marché — 38 Rue Cler, 75007 Paris.** Un'ora e un quarto senza orologio: è la cena "vera" della giornata, prima della passeggiata verso il molo.
 
-**21:15–21:25	A piedi verso l'imbarco**
-Ai piedi della Torre Eiffel
+**🚶 20:45–21:00 — A piedi verso l'imbarco** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=38+Rue+Cler,+75007+Paris,+France&destination=2+Port+de+Suffren,+75007+Paris,+France&travelmode=walking)
+Circa 1,1 km, 13-15 minuti a passo tranquillo. Si arriva al molo verso le 21:00, con un buon margine (le Vedettes de Paris raccomandano di presentarsi almeno 20 minuti prima dell'imbarco).
 
 **🚤 21:30–22:30 — Crociera — le luci di Parigi navigando la Senna** [--> 🗺️](https://www.google.com/maps/search/?api=1&query=2+Port+de+Suffren,+75007+Paris,+France)
-🎫 [BIGLIETTO Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
-Molo d'imbarco: 2, Port de Suffren, (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris")
+🎫 [Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
+Molo d'imbarco: 2, Port de Suffren, 75007 Paris (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris").
 
 **🚇 22:45–23:15 — Metro → Montmartre**
 Rientro in albergo. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses. Un cambio, coerente con i 30 minuti previsti.
 
-**🌙 24:00 — Fine giornata**
+**🌙 23:15 — Fine giornata**
 
 ---
 
