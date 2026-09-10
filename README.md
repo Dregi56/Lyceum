@@ -294,13 +294,16 @@ Bistrot obbligatorio, seduti. Caffè o aperitivo. Un po' più lunga del previsto
 **🚇 18:30–18:55 — Verso La Défense**
 RER A da Charles de Gaulle–Étoile, diretta, nessun cambio (~5-8 minuti). Da La Défense (Grande Arche) sono altri 3-4 minuti a piedi fino al Parvis de la Défense.
 
+**🌆 18:55–19:25 — Esplanade de la Défense**
+Passeggiata rapida sull'esplanade, vista sulla Grande Arche, prima di entrare al ristorante.
+
 **🍽️🥂 19:30–21:30 — Cena a La Défense**
-**Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena.
+**Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena con calma, due ore piene.
 
-**🚇 21:45–22:50 — Metro/RER → Montmartre**
-RER A da La Défense fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio).
+**🚇 21:30–22:10 — Metro/RER → Montmartre**
+Dal ristorante, 3-4 minuti a piedi fino alla stazione La Défense (Grande Arche). RER A fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio, ~8-10 minuti).
 
-**🏨 23:00 — Albergo**
+**🏨 22:15 — Albergo**
 
 ---
 
