@@ -96,9 +96,10 @@ Quindi:
 | 🛍️ 15:15 | Champs-Élysées |
 | 🏛️ 16:30 | Arc de Triomphe |
 | ☕ 17:15 | pausa bistrot, poi RER A verso La Défense |
-| 🍽️🥂 19:00 | cena — Restaurant Puteaux, La Brigade |
-| 🚇 21:45 | RER A + linea 12 verso Montmartre |
-| 🏨 23:00 | albergo |
+| 🌆 18:55 | esplanade de la Défense |
+| 🍽️🥂 19:30 | cena — Restaurant Puteaux, La Brigade |
+| 🚇 21:30 | RER A + linea 12 verso Montmartre |
+| 🏨 22:15 | albergo |
 
 ### 🧺 [Giorno 4 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
 
