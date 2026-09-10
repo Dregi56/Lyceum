@@ -97,8 +97,8 @@ Quindi:
 | 🏛️ 16:30 | Arc de Triomphe |
 | ☕ 17:15 | pausa bistrot, poi RER A verso La Défense |
 | 🍽️🥂 19:00 | cena — Restaurant Puteaux, La Brigade |
-| 🚇 21:00 | RER A + linea 12 verso Montmartre |
-| 🏨 22:15 | albergo |
+| 🚇 21:45 | RER A + linea 12 verso Montmartre |
+| 🏨 23:00 | albergo |
 
 ### 🧺 [Giorno 4 — Île Saint-Louis + Senna + Marais + Entrecôte + Aeroporto](#giorno-3)
 
@@ -229,7 +229,7 @@ Circa 1,1 km, 13-15 minuti a passo tranquillo. Si arriva al molo verso le 21:00,
 🎫 [Vedettes de Paris: "Senna: Crociera Serale con Musica a Bordo + App di Audioguida"](https://www.tiqets.com/it/attrazioni-parigi-c66746/biglietti-per-senna-crociera-serale-con-musica-a-bordo-app-di-audioguida-p1003911/)
 Molo d'imbarco: 2, Port de Suffren, 75007 Paris (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris").
 
-**🚇 22:45–23:15 — Metro → Montmartre**
+**🚇 22:45–23:15 — RER/metro → Montmartre**
 Rientro in albergo. Prendere la RER C dalla stazione Champ de Mars-Tour Eiffel (proprio accanto al molo) fino a Invalides, una sola fermata, 3-4 minuti. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses.
 
 **🌙 23:15 — Fine giornata**
@@ -294,10 +294,10 @@ Bistrot obbligatorio, seduti. Caffè o aperitivo. Un po' più lunga del previsto
 **🚇 18:30–18:55 — Verso La Défense**
 RER A da Charles de Gaulle–Étoile, diretta, nessun cambio (~5-8 minuti). Da La Défense (Grande Arche) sono altri 3-4 minuti a piedi fino al Parvis de la Défense.
 
-**🍽️🥂 19:30–21:00 — Cena a La Défense**
+**🍽️🥂 19:30–21:30 — Cena a La Défense**
 **Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena.
 
-**🚇 21:00–21:35 — Metro/RER → Montmartre**
+**🚇 21:45–22:50 — Metro/RER → Montmartre**
 RER A da La Défense fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio).
 
 **🏨 23:00 — Albergo**
