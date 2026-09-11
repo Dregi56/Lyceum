@@ -82,8 +82,8 @@ Quindi:
 | 🍽️ 19:30 | cena tranquilla — Café du Marché |
 | 🚶 20:45 | passeggiata verso l'imbarco |
 | 🚤 21:30 | crociera serale sulla Senna |
-| 🚇 22:45 | metro verso Montmartre |
-| 🏨 23:15 | albergo |
+| 🚇 22:45 | metro verso Montmartre
+| 🏨 23:25 | albergo
 
 ### 🖼️ [Giorno 3 — Louvre + grande asse monumentale](#giorno-2)
 
@@ -231,7 +231,7 @@ Circa 1,1 km, 13-15 minuti a passo tranquillo. Si arriva al molo verso le 21:00,
 Molo d'imbarco: 2, Port de Suffren, 75007 Paris (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris").
 
 **🚇 22:45–23:15 — RER/metro → Montmartre**
-Rientro in albergo. Prendere la RER C dalla stazione Champ de Mars-Tour Eiffel (proprio accanto al molo) fino a Invalides, una sola fermata, 3-4 minuti. Invalides (linea 8) → Concorde, cambio linea 12 → Abbesses.
+Rientro in albergo. RER C da Champ de Mars-Tour Eiffel a Invalides (2 fermate via Pont de l'Alma, ~6-7 minuti), poi linea 8 verso Concorde, cambio linea 12 → Abbesses.
 
 **🌙 23:15 — Fine giornata**
 
