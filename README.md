@@ -143,7 +143,7 @@ Volo Venezia → Parigi.
 Consideriamo circa 15-20 minuti tra sbarco e ritiro bagagli, poi si parte verso il centro.
 
 **🚇 15:00 circa — Taxi verso Saint-Michel–Notre-Dame**
-Appuntamento all'uscita terminal 3 con taxi di Grand Paris Transport 📞 [Chiama Grand Paris Transport](+33604510657) . Tempo totale 30 minuti fino a deposito bagagli.
+Appuntamento all'uscita terminal 3 con taxi di Grand Paris Transport( 📞 [Chiama Grand Paris Transport](+33604510657) ). Tempo totale 30 minuti fino a deposito bagagli.
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
 Deposito valigie presso un punto vicino alla stazione (es. City-Locker, 6 Rue des Bernardins, 75005)  è a circa 5-7 minuti a piedi dalla stazione basta attraversare il Petit Pont/Pont au Double.
