@@ -4,11 +4,13 @@
 
 *🗓️ Quattro giorni di calendario, tre giorni effettivi*
 
-## <small>🛫 [Biglietti volo di ritorno](https://raw.githubusercontent.com/Dregi56/Lyceum/main/files/carte%20imbarco%20parigi.pdf)</small>
+<small>**🛫 [Biglietti volo di ritorno](https://raw.githubusercontent.com/Dregi56/Lyceum/main/files/carte%20imbarco%20parigi.pdf)**</small>
 
-<small>📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20https%3A%2F%2Fdregi56.github.io%2FLyceum%2F)</small>
+<small>**📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20https%3A%2F%2Fdregi56.github.io%2FLyceum%2F)**</small>
+
+<small>**📥 [Scarica questo file sul telefono per utilizzo offline](https://raw.githubusercontent.com/Dregi56/Lyceum/main/README.md)**</small>
+
 ---
-<small>📥 [Scarica questo file sul telefono per utilizzo offline](https://raw.githubusercontent.com/Dregi56/Lyceum/main/README.md)</small>
 
 ## ✨ Filosofia del viaggio
 
