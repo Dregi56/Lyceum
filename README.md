@@ -6,7 +6,7 @@
 
 ## 🛫 [Biglietti volo di ritorno](https://raw.githubusercontent.com/Dregi56/Lyceum/main/files/carte%20imbarco%20parigi.pdf)
 
-📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20https://dregi56.github.io/Lyceum/)
+📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20https%3A%2F%2Fdregi56.github.io%2FLyceum%2F)
 ---
 
 ## ✨ Filosofia del viaggio
