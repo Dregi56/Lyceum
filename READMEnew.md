@@ -55,7 +55,7 @@ Quindi:
 | Ora | Cosa |
 |---|---|
 | 🛬 14:40 | arrivo a Parigi (Orly) |
-| 🚇 15:00 | Orlyval + RER B → Saint-Michel–Notre-Dame |
+| 🚇 15:00 | Taxi |
 | 🧳 15:45 | deposito bagagli (zona Marais/Cité) |
 | 🏝️ 16:15 | Île de la Cité |
 | ⛪ 16:30 | Notre-Dame |
@@ -139,8 +139,8 @@ Volo Venezia → Parigi.
 **🛬 14:40 circa — Arrivo a Parigi (Orly)**
 Consideriamo circa 15-20 minuti tra sbarco e ritiro bagagli, poi si parte verso il centro.
 
-**🚇 15:00 circa — Orlyval + RER B verso Saint-Michel–Notre-Dame**
-Orlyval (navetta automatica, 6-8 minuti) fino ad Antony, poi RER B fino a Saint-Michel–Notre-Dame (circa 25 minuti), un solo cambio. Tempo totale 30-35 minuti. La stazione è letteralmente sotto il sagrato della cattedrale. Biglietto necessario: "Paris Région ↔ Aéroports" (il biglietto metro normale non è valido su Orlyval).
+**🚇 15:00 circa — Taxi verso Saint-Michel–Notre-Dame**
+Appuntamento con taxi uscita terminal 3. Tempo totale 30 minuti fino a deposito bagagli.
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
 Deposito valigie presso un punto vicino alla stazione (es. City-Locker, 6 Rue des Bernardins, 75005)  è a circa 5-7 minuti a piedi dalla stazione basta attraversare il Petit Pont/Pont au Double.
