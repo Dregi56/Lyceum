@@ -5,6 +5,8 @@
 *🗓️ Quattro giorni di calendario, tre giorni effettivi*
 
 ## 🛫 [Biglietti volo di ritorno](https://raw.githubusercontent.com/Dregi56/Lyceum/main/files/carte%20imbarco%20parigi.pdf)
+
+📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20INSERISCI_QUI_URL)
 ---
 
 ## ✨ Filosofia del viaggio
