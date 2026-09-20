@@ -147,6 +147,7 @@ Appuntamento all'uscita terminal 3 con taxi di Grand Paris Transport 📞 [Chiam
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
 Deposito valigie presso un punto vicino alla stazione (es. City-Locker, 6 Rue des Bernardins, 75005)  è a circa 5-7 minuti a piedi dalla stazione basta attraversare il Petit Pont/Pont au Double.
+Alternative vicine: Radical Storage Deposito bagagli Notre Dame De Paris oppure Storage in Food and Beverage Business (Cathédrale Notre-Dame de Paris)
 
 **🏝️⛪ 16:15–17:15 — Île de la Cité e Notre-Dame**
 Passeggiata verso Notre-Dame, poi visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto.
