@@ -65,7 +65,7 @@ Quindi:
 | ⛪ 17:15 | Sainte-Chapelle |
 | 🌊 18:00 | quai / Senna |
 | 🧳 18:20 | ritiro bagagli |
-| 🚇 18:30 | verso Montmartre |
+| 🚇 18:30 | verso Montmartre (metro 10 → cambio 12 → Abbesses) |
 | 🏨 19:15 | arrivo hotel, check-in rapido |
 | ⛪🚶 19:30 | funicolare e Sacré-Cœur, poi passeggiata di ritorno (Tertre, Maison Rose, Rue Lepic) |
 | 🍽️ 21:00 | cena |
@@ -88,7 +88,7 @@ Quindi:
 | 🍽️ 19:30 | cena tranquilla — Café du Marché |
 | 🚶 20:45 | passeggiata verso l'imbarco |
 | 🚤 21:30 | crociera serale sulla Senna |
-| 🚇 22:45 | metro verso Montmartre
+| 🚇 22:45 | metro verso Montmartre (RER C → Invalides, linea 8 → Concorde, cambio 12 → Abbesses)
 | 🏨 23:25 | albergo
 
 ### 🖼️ [Giorno 3 — Louvre + grande asse monumentale](#giorno-2)
@@ -112,7 +112,7 @@ Quindi:
 | Ora | Cosa |
 |---|---|
 | ☕🥐 08:00 | colazione e check-out definitivo da Montmartre |
-| 🚇 08:45 | metro verso il centro |
+| 🚇 08:45 | metro verso il centro (Abbesses → Concorde, cambio 1 → Saint-Paul) |
 | 🧳 09:15 | deposito bagagli in zona Marais/Saint-Paul |
 | 🏝️ 09:30 | Île Saint-Louis |
 | 🏛️ 10:15 | Hôtel de Ville |
@@ -147,7 +147,10 @@ Appuntamento all'uscita terminal 3 con taxi di Grand Paris Transport 📞 [Chiam
 
 **🧳 15:45–16:00 circa — Deposito bagagli**
 Deposito valigie presso un punto vicino alla stazione (es. City-Locker, 6 Rue des Bernardins, 75005)  è a circa 5-7 minuti a piedi dalla stazione basta attraversare il Petit Pont/Pont au Double.
-**Alternative vicine**: Radical Storage Deposito bagagli Notre Dame De Paris oppure Storage in Food and Beverage Business (Cathédrale Notre-Dame de Paris)</br>
+
+**Alternative vicine** (nel caso City-Locker fosse pieno), con percorso a piedi dal deposito stabilito:
+- Radical Storage — Deposito bagagli Notre Dame De Paris — [🗺️ percorso a piedi da City-Locker](https://www.google.com/maps/dir/?api=1&origin=6+Rue+des+Bernardins,+75005+Paris,+France&destination=Radical+Storage+Deposito+bagagli+Notre+Dame+De+Paris&travelmode=walking)
+- Storage in Food and Beverage Business (Cathédrale Notre-Dame de Paris) — [🗺️ percorso a piedi da City-Locker](https://www.google.com/maps/dir/?api=1&origin=6+Rue+des+Bernardins,+75005+Paris,+France&destination=Storage+in+Food+and+Beverage+Business+Notre+Dame+de+Paris&travelmode=walking)
 
 **🏝️⛪ 16:15–17:15 — Île de la Cité e Notre-Dame**
 Passeggiata verso Notre-Dame, poi visita della cattedrale. Tempo sufficiente per entrare, guardare l'interno e sedersi qualche minuto.
@@ -161,8 +164,7 @@ Breve passeggiata lungo la Senna prima di recuperare i bagagli.
 **🧳 18:20 — Ritiro bagagli**
 
 **🚇 18:30–19:15 — Verso Montmartre**
-Saliamo a Maubert-Mutualité (linea 10, direzione Boulogne–Pont de Saint-Cloud). Cambiamo a Sèvres-Babylone con la linea 12 (direzione Mairie d'Aubervilliers/Front Populaire)
-Scendiamo ad Abbesses.
+Saliamo a Maubert-Mutualité (linea 10, direzione Boulogne–Pont de Saint-Cloud). Cambiamo a Sèvres-Babylone con la linea 12 (direzione Mairie d'Aubervilliers/Front Populaire). Scendiamo ad **Abbesses**.
 
 **🏨 19:15–19:30 — Arrivo hotel, check-in rapido**
 Check-in essenziale, giusto il tempo di lasciare le valigie in camera.
@@ -198,7 +200,7 @@ Con Notre-Dame e Sainte-Chapelle già viste il giorno dell'arrivo, questa giorna
 Colazione tranquilla in zona albergo.
 
 **🚇 8:45–9:15 — Metro da Montmartre → Sèvres-Babylone**
-Abbesses (linea 12) → Sèvres-Babylone, diretta, senza cambi. Circa 20-25 minuti.
+**Abbesses** (linea 12) → **Sèvres-Babylone**, diretta, senza cambi. Circa 20-25 minuti.
 
 **🌳 9:15–10:15 — Jardin du Luxembourg** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=S%C3%A8vres-Babylone,+Paris&destination=Saint-Germain-des-Pr%C3%A9s,+Paris&waypoints=Jardin+du+Luxembourg,+Paris&travelmode=walking)
 Dalla stazione, 8-10 minuti a piedi fino al giardino. Passeggiata tranquilla tra i vialetti, le sedie verdi intorno al bacino centrale. Se qualcuno vuole solo sedersi a guardare la fontana Médicis, ci si siede.
@@ -219,7 +221,7 @@ Zona Saint-Germain, senza fretta.
 Come da programma originale: un bistrot, un caffè, seduti.
 
 **🚇 16:00 — A piedi/taxi verso Musée d'Orsay, poi RER C**
-Invariato: 10-15 minuti a piedi fino alla stazione RER C di Musée d'Orsay, poi Musée d'Orsay → Invalides → Pont de l'Alma → Champ de Mars-Tour Eiffel, 3 fermate senza cambi.
+Invariato: 10-15 minuti a piedi fino alla stazione RER C di Musée d'Orsay, poi Musée d'Orsay → Invalides → Pont de l'Alma → **Champ de Mars-Tour Eiffel**, 3 fermate senza cambi.
 
 **🗼 16:30–18:30 — Tour Eiffel e Champs de Mars** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Champ+de+Mars,+Paris&destination=Champ+de+Mars,+Paris&waypoints=Tour+Eiffel,+Paris%7CTrocad%C3%A9ro,+Paris&travelmode=walking)
 Arriviamo alla Tour Eiffel. Non saliamo. La vediamo da vicino. Percorso ad anello: si scende dal RER già a Champ de Mars, si cammina fino alla base della Torre, si attraversa il Pont d'Iéna verso Trocadéro per la vista classica con la Torre di fronte, poi si riattraversa tornando a Champ de Mars. E qui finalmente facciamo una cosa che secondo me rappresenta perfettamente il viaggio: ci sediamo. 🪑 Panchina o prato. 🌳 Guardiamo la Torre. Guardiamo Parigi. Niente da spuntare.
@@ -238,7 +240,7 @@ Circa 1,1 km, 13-15 minuti a passo tranquillo. Si arriva al molo verso le 21:00,
 Molo d'imbarco: 2, Port de Suffren, 75007 Paris (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris").
 
 **🚇 22:45–23:15 — RER/metro → Montmartre**
-Rientro in albergo. RER C da Champ de Mars-Tour Eiffel a Invalides (2 fermate via Pont de l'Alma, ~6-7 minuti), poi linea 8 verso Concorde, cambio linea 12 → Abbesses.
+Rientro in albergo. RER C da Champ de Mars-Tour Eiffel a **Invalides** (2 fermate via Pont de l'Alma, ~6-7 minuti), poi linea 8 fino a **Concorde**, cambio linea 12 → **Abbesses**.
 
 **🌙 23:15 — Fine giornata**
 
@@ -253,7 +255,7 @@ Questo è il giorno del Louvre. E abbiamo una fortuna: è venerdì, quindi il Lo
 **🥐 8:00 — Colazione**
 
 **🚇 8:45 — Partenza da Montmartre**
-Metro verso il Louvre. Abbesses (linea 12) → Concorde, cambio linea 1 → Palais Royal-Musée du Louvre.
+Metro verso il Louvre. **Abbesses** (linea 12) → **Concorde**, cambio linea 1 → **Palais Royal-Musée du Louvre**.
 
 **🖼️ 9:15-9:20 — Arrivo al Louvre**
 Ingresso prenotato. Il Louvre raccomanda la prenotazione di una fascia oraria.
@@ -289,7 +291,7 @@ Si continua verso la Concorde. Qui ci fermiamo per osservare la grande prospetti
 **🛍️ 15:15–16:30 — Champs-Élysées**
 Camminata lenta. Non necessariamente tutta a piedi. Se le gambe chiedono una pausa: ci si siede. Se qualcuno vuole entrare in un negozio: si entra. Non abbiamo un cronometro. (Circa 1,9 km in 75 minuti con soste.)
 
-Se dopo un tratto di cammino le gambe chiedono una pausa, ci infiliamo nella prima bocca della metropolitana (Linea 1) e raggiungiamo l'Arco di Trionfo in un lampo, usando il tempo risparmiato per anticipare la sosta al bistrot! 🚇⏱️
+Se dopo un tratto di cammino le gambe chiedono una pausa, ci infiliamo nella prima bocca della metropolitana (Linea 1, direzione La Défense) e scendiamo direttamente a **Charles de Gaulle–Étoile**, raggiungendo l'Arco di Trionfo in un lampo e usando il tempo risparmiato per anticipare la sosta al bistrot! 🚇⏱️
 
 **🏛️ 16:30–17:15 — Arc de Triomphe**
 Arrivo all'Arco. Qui farei una scelta diversa dal programma precedente: NON è obbligatorio salire. Per voi penso sia meglio considerarlo soprattutto come punto finale dell'asse monumentale. La visita interna dura circa 45 minuti, ma richiede scale e quindi non la considero necessaria. L'Arco, comunque, è aperto fino alle 23 nel periodo 1 aprile–30 settembre.
@@ -300,7 +302,7 @@ Guardiamo: 🏛️ l'Arco; 🕯️ la tomba del Milite Ignoto; 🌟 la grande Pl
 Bistrot obbligatorio, seduti. Caffè o aperitivo. Un po' più lunga del previsto: il trasferimento verso La Défense sarà molto più rapido di quanto stimato in origine.
 
 **🚇 18:30–18:55 — Verso La Défense**
-RER A da Charles de Gaulle–Étoile, diretta, nessun cambio (~5-8 minuti). Da La Défense (Grande Arche) sono altri 3-4 minuti a piedi fino al Parvis de la Défense.
+RER A da **Charles de Gaulle–Étoile**, diretta, nessun cambio (~5-8 minuti), fino a **La Défense (Grande Arche)**. Da lì altri 3-4 minuti a piedi fino al Parvis de la Défense.
 
 **🌆 18:55–19:25 — Esplanade de la Défense**
 Passeggiata rapida sull'esplanade, vista sulla Grande Arche, prima di entrare al ristorante.
@@ -309,7 +311,7 @@ Passeggiata rapida sull'esplanade, vista sulla Grande Arche, prima di entrare al
 **Restaurant Puteaux — centro commerciale La Brigade, 15 Parvis de la Défense.** Aperitivo e cena con calma, due ore piene.
 
 **🚇 21:30–22:10 — Metro/RER → Montmartre**
-Dal ristorante, 3-4 minuti a piedi fino alla stazione La Défense (Grande Arche). RER A fino ad Auber (diretta, ~8-10 minuti). Corrispondenza a piedi fino a Gare Saint-Lazare (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad Abbesses (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio, ~8-10 minuti).
+Dal ristorante, 3-4 minuti a piedi fino alla stazione **La Défense (Grande Arche)**. RER A fino ad **Auber** (diretta, ~8-10 minuti). Corrispondenza a piedi fino a **Gare Saint-Lazare** (~6-8 minuti, non sotterranea diretta ma segnalata). Poi linea 12 diretta fino ad **Abbesses** (Saint-Lazare → Trinité–d'Estienne d'Orves → Pigalle → Abbesses, nessun cambio, ~8-10 minuti).
 
 **🏨 22:15 — Albergo**
 
@@ -329,9 +331,11 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 
 **🚇🧳 8:45 — Metro da Montmartre → deposito bagagli**
 
-Abbesses (linea 12) → Concorde, cambio linea 1 → Saint-Paul.
+**Abbesses** (linea 12) → **Concorde**, cambio linea 1 → **Saint-Paul**.
 
 Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
+
+*(⚠️ mi servono i nomi/indirizzi dei due punti di riserva che avevi in mente vicino a Rue Barbette, così genero anche qui il percorso a piedi con lo stesso criterio del Giorno 1)*
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
 
@@ -379,7 +383,7 @@ Dopo pranzo si prosegue a piedi verso il deposito **Bounce — 18 Rue Barbette**
 
 Si recuperano i bagagli e si parte direttamente dal centro.
 
-Taxi come soluzione più comoda con le valigie. In alternativa, da Châtelet-Les Halles la Metro 14 porta direttamente all'Aéroport d'Orly in circa 25 minuti. Obiettivo: essere in aeroporto entro le 16:00–16:30, quindi con circa 2 ore di margine sul volo delle 18:30.
+Taxi come soluzione più comoda con le valigie. In alternativa, da **Châtelet-Les Halles** la Metro 14 porta direttamente all'**Aéroport d'Orly** in circa 25 minuti. Obiettivo: essere in aeroporto entro le 16:00–16:30, quindi con circa 2 ore di margine sul volo delle 18:30.
 
 **🛄 16:30 — Aeroporto**
 
