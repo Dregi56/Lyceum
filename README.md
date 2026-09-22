@@ -333,13 +333,11 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 
 **Abbesses** (linea 12) → **Concorde**, cambio linea 1 → **Saint-Paul**.
 
-Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
+Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris** ([🗺️ percorso a piedi dalla stazione Saint-Paul](https://www.google.com/maps/dir/?api=1&origin=Saint-Paul,+M%C3%A9tro,+Paris&destination=18+Rue+Barbette,+75003+Paris,+France&travelmode=walking)), si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
 
-**Alternative vicine** (nel caso City-Locker fosse pieno), con percorso a piedi dal deposito stabilito:
-- Bounce Luggage Storage - Saint-Paul Station — 4 Rue des Écouffes
-- Bounce Luggage Storage - Place des Vosges Rue de Turenne — 25 Rue de Turenne
-
-*(⚠️ mi servono i nomi/indirizzi dei due punti di riserva che avevi in mente vicino a Rue Barbette, così genero anche qui il percorso a piedi con lo stesso criterio del Giorno 1)*
+**Alternative vicine** (nel caso Bounce Rue Barbette fosse pieno), con percorso a piedi dal deposito stabilito:
+- Bounce Luggage Storage – Saint-Paul Station, 4 Rue des Écouffes — [🗺️ percorso a piedi da Bounce Rue Barbette](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris,+France&destination=4+Rue+des+Écouffes,+75004+Paris,+France&travelmode=walking)
+- Bounce Luggage Storage – Place des Vosges/Rue de Turenne, 25 Rue de Turenne — [🗺️ percorso a piedi da Bounce Rue Barbette](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris,+France&destination=25+Rue+de+Turenne,+75003+Paris,+France&travelmode=walking)
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
 
