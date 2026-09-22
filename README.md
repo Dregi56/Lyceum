@@ -8,7 +8,7 @@
 
 <small>**📲 [Condividi su WhatsApp il link a questo programma](https://wa.me/?text=Link%20alla%20pagina%3A%20https%3A%2F%2Fdregi56.github.io%2FLyceum%2F)**</small>
 
-<small>**📥 [Scarica questo file sul telefono per utilizzo offline](https://github.com/Dregi56/Lyceum/releases/download/v1/README.md)** (lo ritroverai nella cartella download del telefono)</small>
+<small>**📥 [Scarica questo file sul telefono per utilizzo offline](https://github.com/Dregi56/Lyceum/releases/download/v2/README.md)** (lo ritroverai nella cartella download del telefono)</small>
 
 ---
 
