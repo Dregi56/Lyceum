@@ -240,7 +240,7 @@ Circa 1,1 km, 13-15 minuti a passo tranquillo. Si arriva al molo verso le 21:00,
 Molo d'imbarco: 2, Port de Suffren, 75007 Paris (istruzioni ufficiali: "scendi le scale, cerca le 3 grandi bandiere rosse, bianche e blu di Vedettes de Paris").
 
 **🚇 22:45–23:15 — RER/metro → Montmartre**
-Rientro in albergo. RER C da Champ de Mars-Tour Eiffel a **Invalides** (2 fermate via Pont de l'Alma, ~6-7 minuti), poi linea 8 fino a **Concorde**, cambio linea 12 → **Abbesses**.
+Sbarco e breve passeggiata dal molo alla stazione ([🗺️ percorso a piedi dal molo alla stazione Champ de Mars-Tour Eiffel](https://www.google.com/maps/dir/?api=1&origin=2+Port+de+Suffren,+75007+Paris,+France&destination=Champ+de+Mars+-+Tour+Eiffel,+RER,+Paris&travelmode=walking)). Rientro in albergo. RER C da Champ de Mars-Tour Eiffel a **Invalides** (2 fermate via Pont de l'Alma, ~6-7 minuti), poi linea 8 fino a **Concorde**, cambio linea 12 → **Abbesses**.
 
 **🌙 23:15 — Fine giornata**
 
@@ -282,7 +282,7 @@ Basta Louvre. Non aggiungiamo altre opere «già che ci siamo».
 **☕ 12:30–13:15 — Pausa**
 Rimaniamo leggeri e prima di continuare, ci sediamo. Caffè / bibita / qualcosa  di leggero.
 
-**🌳 13:15–14:30 — Jardin des Tuileries** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris|Avenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
+**🌳 13:15–14:30 — Jardin des Tuileries** [--> 🗺️](https://www.google.com/maps/dir/?api=1&origin=Jardin+des+Tuileries,+Paris&destination=Arc+de+Triomphe,+Paris&waypoints=Place+de+la+Concorde,+Paris%7CAvenue+des+Champs-%C3%89lys%C3%A9es,+Paris&travelmode=walking)
 Entriamo nelle Tuileries. Passeggiata tranquilla. Sedie. Fontane. Viali. Niente fretta. A settembre il giardino ha orario ampio; per il 25 settembre l'orario indicato dal Louvre è 7:00–21:00.
 
 **🗿 14:30–15:15 — Place de la Concorde**
@@ -336,7 +336,7 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris** ([🗺️ percorso a piedi dalla stazione Saint-Paul](https://www.google.com/maps/dir/?api=1&origin=Saint-Paul,+M%C3%A9tro,+Paris&destination=18+Rue+Barbette,+75003+Paris,+France&travelmode=walking)), si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
 
 **Alternative vicine** (nel caso Bounce Rue Barbette fosse pieno), con percorso a piedi dal deposito stabilito:
-- Bounce Luggage Storage – Saint-Paul Station, 4 Rue des Écouffes — [🗺️ percorso a piedi da Bounce Rue Barbette](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris,+France&destination=4+Rue+des+Écouffes,+75004+Paris,+France&travelmode=walking)
+- Bounce Luggage Storage – Saint-Paul Station, 4 Rue des Écouffes — [🗺️ percorso a piedi da Bounce Rue Barbette](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris,+France&destination=4+Rue+des+%C3%89couffes,+75004+Paris,+France&travelmode=walking)
 - Bounce Luggage Storage – Place des Vosges/Rue de Turenne, 25 Rue de Turenne — [🗺️ percorso a piedi da Bounce Rue Barbette](https://www.google.com/maps/dir/?api=1&origin=18+Rue+Barbette,+75003+Paris,+France&destination=25+Rue+de+Turenne,+75003+Paris,+France&travelmode=walking)
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
