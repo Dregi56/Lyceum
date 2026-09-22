@@ -335,6 +335,10 @@ Colazione e chiusura bagagli. Si lascia definitivamente l'albergo a Montmartre.
 
 Si raggiunge il deposito **Bounce — 18 Rue Barbette, 75003 Paris**, si lasciano le valigie e si parte definitivamente per l'ultima passeggiata.
 
+**Alternative vicine** (nel caso City-Locker fosse pieno), con percorso a piedi dal deposito stabilito:
+- Bounce Luggage Storage - Saint-Paul Station — 4 Rue des Écouffes
+- Bounce Luggage Storage - Place des Vosges Rue de Turenne — 25 Rue de Turenne
+
 *(⚠️ mi servono i nomi/indirizzi dei due punti di riserva che avevi in mente vicino a Rue Barbette, così genero anche qui il percorso a piedi con lo stesso criterio del Giorno 1)*
 
 **🏝️ 9:30–10:15 — Île Saint-Louis**
@@ -392,15 +396,6 @@ Stazione / Terminal Check-in / bagagli / controlli.
 Poi finalmente possiamo sederci. 🪑
 
 **🛫🌍 18:30 — Volo Parigi → Venezia**
-
----
-
-## 🧳 (*) Deposito bagagli
-
-### 1️⃣ Bounce (consigliatissimo) 🧳
-Ha oltre 20 punti di deposito solo nel Marais e vicino a Châtelet.
-- 💶 **Costo:** a partire da circa **€ 4,25 – € 5,25 al giorno per bagaglio** (tariffa fissa per 24 ore, senza limiti di peso o dimensione).
-- 🛡️ **Sicurezza:** include una protezione/assicurazione sui bagagli fino a € 10.000.
 
 ---
 
