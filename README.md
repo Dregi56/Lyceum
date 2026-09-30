@@ -396,5 +396,3 @@ Poi finalmente possiamo sederci. 🪑
 **🛫🌍 18:30 — Volo Parigi → Venezia**
 
 ---
-
-<p align="center">🗼✨ <i>Da Egidio per il gruppo liceali</i> ✨🗼</p>
